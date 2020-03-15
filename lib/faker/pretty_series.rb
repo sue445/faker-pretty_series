@@ -1,4 +1,5 @@
 require "faker/pretty_series/version"
+require "prismdb"
 
 module Faker
   module PrettySeries
