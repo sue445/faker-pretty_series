@@ -5,6 +5,8 @@ module Faker
 
       # @param data_name [String]
       # @param key [String]
+      #
+      # @return [String]
       def self.sample_data(data_name, key)
         data = YAML.load_file("#{__dir__}/../../data/#{data_name}.yml")
 
