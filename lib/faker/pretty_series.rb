@@ -7,5 +7,6 @@ module Faker
 
     autoload :Character,  "faker/pretty_series/character"
     autoload :DataReader, "faker/pretty_series/data_reader"
+    autoload :Episode,    "faker/pretty_series/episode"
   end
 end
