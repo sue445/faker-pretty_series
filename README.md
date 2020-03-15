@@ -1,9 +1,5 @@
 # Faker::PrettySeries
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/faker/pretty_series`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
-
+Test data generator using [PrettySeries](https://en.wikipedia.org/wiki/Pretty_Rhythm)
 
 [![test](https://github.com/sue445/faker-pretty_series/workflows/test/badge.svg?branch=master)](https://github.com/sue445/faker-pretty_series/actions?query=workflow%3Atest)
 [![Coverage Status](https://coveralls.io/repos/github/sue445/faker-pretty_series/badge.svg?branch=master)](https://coveralls.io/github/sue445/faker-pretty_series?branch=master)
@@ -27,7 +23,30 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require "faker-pretty_series"
+
+Faker::PrettySeries::Character.name
+# => "かのん"
+
+Faker::PrettySeries::Character.cv
+# => "佐々木李子"
+
+Faker::PrettySeries::Episode.subtitle
+# => "真夏のフェスでやってみた！"
+
+Faker::PrettySeries::Song.name
+# => "Neo Dimension Go!!"
+```
+
+## Example for [factory_bot](https://github.com/thoughtbot/factory_bot)
+```ruby
+FactoryBot.define do
+  factory :user do
+    name { Faker::PrettySeries::Character.name }
+  end
+end
+```
 
 ## Development
 
