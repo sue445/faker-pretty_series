@@ -4,6 +4,9 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
+[![Coverage Status](https://coveralls.io/repos/github/sue445/faker-pretty_series/badge.svg?branch=master)](https://coveralls.io/github/sue445/faker-pretty_series?branch=master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/1e61884ff835944a69d2/maintainability)](https://codeclimate.com/github/sue445/faker-pretty_series/maintainability)
+
 ## Installation
 
 Add this line to your application's Gemfile:
