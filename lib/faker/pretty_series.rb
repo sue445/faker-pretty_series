@@ -4,6 +4,8 @@ require "prismdb"
 module Faker
   module PrettySeries
     class Error < StandardError; end
-    # Your code goes here...
+
+    autoload :Character,  "faker/pretty_series/character"
+    autoload :DataReader, "faker/pretty_series/data_reader"
   end
 end
