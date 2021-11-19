@@ -5,8 +5,10 @@
   favorite_brand: dolly_waltz
   favorite_food: 紅茶
   height: 147
+  memberOf: meltic_star
   name: 赤城 あんな
   name_kana: あかぎ あんな
+  performerIn: prichan_101_diamond_smile
   type: ラブリー
   _key: akagi_anna
 - cv: 伊藤かな恵
@@ -14,17 +16,31 @@
   name_kana: あかい めがねぇ
   performerIn: pripara_79_virtual_idol
   _key: akai_meganee
+- birthday: 11月5日
+  cv: ファイルーズあい
+  favorite_brand: fun_fun_trunk
+  favorite_food: ペペロンチーノ
+  name: アリス・ペペロンチーノ
+  name_kana: ありす ぺぺろんちーの
+  type: ナチュラル
+  _key: alice_peperoncino
 - birthday: 1月25日
   blood_type: A型
   cv: 厚木那奈美
   favorite_brand: secret_alice
   favorite_food: アップルパイ
   height: 153
+  memberOf: miracle_kiratts
   name: 青葉 りんか
   name_kana: あおば りんか
   performerIn: prichan_58_yumeiro_energy
   type: クール
   _key: aoba_rinka
+- cv: 澁谷梓希
+  memberOf: oshama_tricks
+  name: 明日香 ルゥ
+  name_kana: あすか るぅ
+  _key: asuka_ruu
 - cv: 佐々木李子
   favorite_brand: milky_rainbow
   name: だいあ
@@ -51,6 +67,11 @@
   name_kana: ふぁるる
   performerIn: pripara_75_love_week_old
   _key: falulu
+- cv: 山北早紀
+  memberOf: oshama_tricks
+  name: 歩堂 デヴィ
+  name_kana: ふどう でびぃ
+  _key: fudou_devy
 - birthday: 4月17日
   charm: ラブリー
   cv: 真田アサミ
@@ -61,6 +82,11 @@
   name_kana: がぁるる
   performerIn: pripara_83_love_week_old
   _key: gaaruru
+- cv: 伊達朱里紗
+  name: 激川 ゆい
+  name_kana: げきかわ ゆい
+  type: ラブリー
+  _key: gekikawa_yui
 - birthday: 9月12日
   blood_type: AB型
   charm: クール/プレミアム
@@ -87,28 +113,45 @@
   name: ジャニス
   name_kana: じゃにす
   _key: janice
-- cv: 上田麗奈
+- birthday: 7月10日
+  cv: 上田麗奈
   favorite_food: 綿菓子
   name: ジュリィ
   name_kana: じゅりぃ
   performerIn: pripara_140_girls_fantasy
   _key: jewlie
-- cv: 田中美海
+- birthday: 1月23日
+  blood_type: A型
+  cv: 田中美海
+  favorite_food: ジェラート
   memberOf: triangle
   name: じゅのん
   name_kana: じゅのん
   performerIn: pripara_92_charisma_to_girl_yeah
   _key: junon
+- birthday: 11月5日
+  cv: 指出毬亜
+  favorite_brand: moonlight_magic
+  favorite_food: エクレア
+  name: 輝 イブ
+  name_kana: かがやき いぶ
+  type: セレブ
+  _key: kagayaki_eve
 - birthday: 5月9日
+  blood_type: O型
   cv: 茜屋日海夏
   favorite_brand: cutie_happiness
   favorite_food: アイスクリーム
+  memberOf: ring_marry
   name: 金森 まりあ
   name_kana: かなもり まりあ
   performerIn: prichan_57_shiawasei_kawaii_sanka
   type: ラブリー
   _key: kanamori_maria
-- cv: 田中美海
+- birthday: 3月21日
+  blood_type: A型
+  cv: 田中美海
+  favorite_food: ティラミス
   memberOf: triangle
   name: かのん
   name_kana: かのん
@@ -125,12 +168,23 @@
   name_kana: きき あじみ
   performerIn: pripara_72_panic_labyrinth
   _key: kiki_ajimi
+- birthday: 10月10日
+  cv: 山下七海
+  favorite_brand: little_princess_egg
+  memberOf: gogo_mascots
+  name: キラッCHU
+  name_kana: きらっちゅ
+  type: ラブリー
+  _key: kiracchu
 - birthday: 12月6日
+  blood_type: B型
   cv: 徳井青空
   favorite_brand: dance_and_street
   favorite_food: モナカ
+  memberOf: ring_marry
   name: 黒川 すず
   name_kana: くろかわ すず
+  performerIn: prichan_101_diamond_smile
   type: クール
   _key: kurokawa_suzu
 - birthday: 6月6日
@@ -153,6 +207,14 @@
   name: レオナ・ウェスト
   name_kana: れおな うぇすと
   _key: leona_west
+- birthday: 2月22日
+  cv: 山村響
+  favorite_brand: little_princess_egg
+  favorite_food: オムレツ
+  name: ルルナ
+  name_kana: るるな
+  type: セレブ
+  _key: luluna
 - birthday: 11月20日
   blood_type: O型
   charm: ラブリー
@@ -173,14 +235,24 @@
   name: 真中 のん
   name_kana: まなか のん
   _key: manaka_non
+- birthday: 8月8日
+  cv: 大森日雅
+  favorite_brand: little_princess_egg
+  memberOf: gogo_mascots
+  name: メルパン
+  name_kana: めるぱん
+  type: クール
+  _key: melpan
 - birthday: 6月9日
   blood_type: O型
   cv: 若井友希
   favorite_brand: romance_beat
   favorite_food: ステーキ
   height: 163
+  memberOf: meltic_star
   name: 緑川 さら
   name_kana: みどりかわ さら
+  performerIn: prichan_101_diamond_smile
   type: クール
   _key: midorikawa_sara
 - birthday: 8月11日
@@ -211,17 +283,23 @@
   favorite_brand: girls_yell
   favorite_food: ポップコーン
   height: 150
+  memberOf: miracle_kiratts
   name: 萌黄 えも
   name_kana: もえぎ えも
   performerIn: prichan_6_suki_suki_sensor
   type: ポップ
   _key: moegi_emo
+- cv: 楠木ともり
+  name: 桃山 ひかり
+  name_kana: ももやま ひかり
+  _key: momoyama_hikari
 - birthday: 7月12日
   blood_type: B型
   cv: 林鼓子
   favorite_brand: sweet_honey
   favorite_food: ケーキ
   height: 150
+  memberOf: miracle_kiratts
   name: 桃山 みらい
   name_kana: ももやま みらい
   performerIn: prichan_5_one_two_sweets
@@ -233,30 +311,48 @@
   name: 鍋島 ちゃん子
   name_kana: なべしま ちゃんこ
   _key: nabesima_chanko
-- cv: 阿澄佳奈
+- birthday: 9月3日
+  cv: 阿澄佳奈
+  memberOf: il_ange
   name: 七星 あいら
   name_kana: ななほし あいら
   _key: nanahoshi_aira
-- cv: 佐々木李子
+- birthday: 4月22日
+  blood_type: A型
+  cv: 佐々木李子
   favorite_brand: milky_rainbow
+  favorite_food: ラムネ菓子
   name: 虹ノ咲 だいあ
   name_kana: にじのさき だいあ
-  performerIn: prichan_100_memories_for_future
+  performerIn: prichan_102_memories_for_future
   type: ポップ
   _key: nijinosaki_daia
-- cv: 田中美海
+- birthday: 2月13日
+  blood_type: A型
+  cv: 田中美海
+  favorite_food: パンナコッタ
   memberOf: triangle
   name: ぴのん
   name_kana: ぴのん
   performerIn: pripara_93_charisma_to_girl_yeah
   _key: pinon
+- birthday: 3月3日
+  cv: 田中美海
+  favorite_brand: little_princess_egg
+  memberOf: gogo_mascots
+  name: ラビリィ
+  name_kana: らびりぃ
+  type: ポップ
+  _key: rabbily
 - birthday: 4月23日
   blood_type: AB型
   cv: 森嶋優花
   favorite_brand: universe_queen
   favorite_food: ドーナツ
+  memberOf: meltic_star
   name: 紫藤 める
   name_kana: しどう める
+  performerIn: prichan_101_diamond_smile
   type: クール
   _key: shidou_meru
 - birthday: 3月27日
@@ -286,8 +382,17 @@
   favorite_brand: precious_muse
   name: 白鳥 アンジュ
   name_kana: しらとり あんじゅ
+  performerIn: prichan_101_diamond_smile
   type: プレミアム
   _key: shiratori_anjyu
+- birthday: 2月22日
+  cv: 斎賀みつき
+  favorite_brand: little_princess_egg
+  favorite_food: 目玉焼き
+  name: ソルル
+  name_kana: そるる
+  type: ナチュラル
+  _key: solulu
 - birthday: 2月9日
   blood_type: O型
   cv: 山下七海
