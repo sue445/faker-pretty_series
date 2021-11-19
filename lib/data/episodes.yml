@@ -1,1716 +1,3646 @@
 ---
 - lives:
   - ad_1_you_may_dream
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: スタア誕生！
-  放送日(TXN): 11/4/9
+  作画監修: 空流辺広子
+  放送日(TXN): '2011-04-09'
   演出: 京極尚彦
   絵コンテ: 青葉譲
-  脚本: 赤尾でこ
   話数: 1
   _key: ad_1
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: りずむ、心のジャンプ！
-  放送日(TXN): 11/4/16
+  作画監修: 森本由布希
+  放送日(TXN): '2011-04-16'
+  演出: 徳本善信
+  絵コンテ: 青葉譲
   話数: 2
   _key: ad_2
 - lives: []
+  脚本: 伊福部崇
   episodeOfSeries: ad
   サブタイトル: これがコーチ！？ラビチとベアチ
-  放送日(TXN): 11/4/23
+  作画監修: 窪敏
+  放送日(TXN): '2011-04-23'
+  演出: 関田修
+  絵コンテ: 藤原良二
   話数: 3
   _key: ad_3
 - lives: []
+  脚本: 坪田文
   episodeOfSeries: ad
   サブタイトル: イースターは胸キュン体験
-  放送日(TXN): 11/4/30
+  作画監修: 空流辺広子
+  放送日(TXN): '2011-04-30'
+  演出: 殿勝秀樹
+  絵コンテ: 殿勝秀樹
   話数: 4
   _key: ad_4
 - lives: []
+  脚本: 田口智子
   episodeOfSeries: ad
   サブタイトル: パパにはナイショでファッションショー
-  放送日(TXN): 11/5/7
+  作画監修: 石井ゆみこ
+  放送日(TXN): '2011-05-07'
+  演出: 矢花馨
+  絵コンテ: 矢花馨
   話数: 5
   _key: ad_5
 - lives: []
+  脚本: 井内秀治
   episodeOfSeries: ad
   サブタイトル: プリズムの輝きはいつもここに
-  放送日(TXN): 11/5/14
+  作画監修: 加野晃
+  放送日(TXN): '2011-05-14'
+  演出: 岩田義彦
+  絵コンテ: 井内秀治
   話数: 6
   _key: ad_6
 - lives: []
+  脚本: 村上桃子
   episodeOfSeries: ad
   サブタイトル: 絶交！？あいらとりずむの大ゲンカ
-  放送日(TXN): 11/5/21
+  作画監修: 日高真由美
+  放送日(TXN): '2011-05-21'
+  演出: 小林浩輔
+  絵コンテ: 青葉譲
   話数: 7
   _key: ad_7
 - lives: []
+  脚本: 伊福部崇
   episodeOfSeries: ad
   サブタイトル: りずむピンチ！お勉強大作戦
-  放送日(TXN): 11/5/28
+  作画監修: しんぼたくろう
+  放送日(TXN): '2011-05-28'
+  演出: 徳本善信
+  絵コンテ: 藤原良二
   話数: 8
   _key: ad_8
 - lives: []
+  脚本: 坪田文
   episodeOfSeries: ad
   サブタイトル: 学園祭と秘密の約束
-  放送日(TXN): 11/6/4
+  作画監修: 池田有
+  放送日(TXN): '2011-06-4'
+  演出: 加藤顕
+  絵コンテ: 誌村宏明
   話数: 9
   _key: ad_9
 - lives: []
+  脚本: 田口智子
   episodeOfSeries: ad
   サブタイトル: 雨のちラブリーレインボー
-  放送日(TXN): 11/6/11
+  作画監修: 森本由布希
+  放送日(TXN): '2011-06-11'
+  演出: 矢花馨
+  絵コンテ: 近藤信宏
   話数: 10
   _key: ad_10
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: 開幕！ティアラカップ
-  放送日(TXN): 11/6/18
+  作画監修: 空流辺広子
+  放送日(TXN): '2011-06-18'
+  演出: 関田修
+  絵コンテ: 石踊宏
   話数: 11
   _key: ad_11
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: 勝利の栄冠は誰の手に！？
-  放送日(TXN): 11/6/25
+  作画監修: 石井ゆみこ
+  放送日(TXN): '2011-06-25'
+  演出: 京極尚彦
+  絵コンテ: 京極尚彦
   話数: 12
   _key: ad_12
 - lives: []
+  脚本: 井内秀治
   episodeOfSeries: ad
   サブタイトル: アンディの涙
-  放送日(TXN): 11/7/2
+  作画監修: 竹知仁美
+  放送日(TXN): '2011-07-02'
+  演出: 関田修
+  絵コンテ: 井内秀治
   話数: 13
   _key: ad_13
 - lives: []
+  脚本: 村上桃子
   episodeOfSeries: ad
   サブタイトル: みおんスイッチオン
-  放送日(TXN): 11/7/9
+  作画監修: 本田敬一
+  放送日(TXN): '2011-07-09'
+  演出: 徳本善信
+  絵コンテ: 本田敬一
   話数: 14
   _key: ad_14
 - lives: []
+  脚本: 伊福部崇
   episodeOfSeries: ad
   サブタイトル: めらめらハートがあつくなる！
-  放送日(TXN): 11/7/16
+  作画監修: 空流辺広子
+  放送日(TXN): '2011-07-16'
+  演出: 江島泰男
+  絵コンテ: 藤原良二
   話数: 15
   _key: ad_15
 - lives: []
+  脚本: 田口智子
   episodeOfSeries: ad
   サブタイトル: ネコチの試練
-  放送日(TXN): 11/7/23
+  作画監修: 加野晃
+  放送日(TXN): '2011-07-23'
+  演出: 岩田義彦
+  絵コンテ: 近藤信宏
   話数: 16
   _key: ad_16
 - lives: []
+  脚本: 坪田文
   episodeOfSeries: ad
   サブタイトル: ハピラキサマーはケーキで特訓！
-  放送日(TXN): 11/7/30
+  作画監修: 日高真由美
+  放送日(TXN): '2011-07-30'
+  演出: 小林浩輔
+  絵コンテ: 矢花馨
   話数: 17
   _key: ad_17
 - lives: []
+  脚本: 村上桃子
   episodeOfSeries: ad
   サブタイトル: 夜空に花咲く恋ゴコロ
-  放送日(TXN): 11/8/6
+  作画監修: しんぼたくろう
+  放送日(TXN): '2011-08-06'
+  演出: 徳本善信
+  絵コンテ: 徳本善信
   話数: 18
   _key: ad_18
 - lives: []
+  脚本: 伊福部崇
   episodeOfSeries: ad
   サブタイトル: デュオ決定！運命のガールズ・デート
-  放送日(TXN): 11/8/13
+  作画監修: 空流辺広子
+  放送日(TXN): '2011-08-13'
+  演出: 加藤顕
+  絵コンテ: 藤原良二
   話数: 19
   _key: ad_19
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: ライバルは関西っ娘！セレナとかのん登場！！
-  放送日(TXN): 11/8/20
+  作画監修: 石井ゆみこ
+  放送日(TXN): '2011-08-20'
+  演出: 京極尚彦
+  絵コンテ: 京極尚彦
   話数: 20
   _key: ad_20
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: 嵐のサマークイーンカップ
-  放送日(TXN): 11/8/27
+  作画監修: 空流辺広子
+  放送日(TXN): '2011-08-27'
+  演出: 関田修
+  絵コンテ: 青葉譲
   話数: 21
   _key: ad_21
 - lives: []
+  脚本: 坪田文
   episodeOfSeries: ad
   サブタイトル: スケート座の祝福を君に！
-  放送日(TXN): 11/9/3
+  作画監修: 糸島雅彦
+  放送日(TXN): '2011-09-03'
+  演出: 酒井和男
+  絵コンテ: 矢花馨
   話数: 22
   _key: ad_22
 - lives: []
+  脚本: 田口智子
   episodeOfSeries: ad
   サブタイトル: MARsドキドキ芸能デビュー
-  放送日(TXN): 11/9/10
+  作画監修: 村上泰民
+  放送日(TXN): '2011-09-10'
+  演出: 江島泰男
+  絵コンテ: 近藤信宏
   話数: 23
   _key: ad_23
 - lives: []
+  脚本: 村上桃子
   episodeOfSeries: ad
   サブタイトル: 修学旅行でお笑い対決
-  放送日(TXN): 11/9/17
+  作画監修: 森本由布希
+  放送日(TXN): '2011-09-17'
+  演出: 三好正人
+  絵コンテ: 石踊宏
   話数: 24
   _key: ad_24
 - lives: []
+  脚本: 井内秀治
   episodeOfSeries: ad
   サブタイトル: 友情の誓い！オーロラの翼
-  放送日(TXN): 11/9/24
+  作画監修: 空流辺広子
+  放送日(TXN): '2011-09-24'
+  演出: 徳本善信
+  絵コンテ: 藤原良二
   話数: 25
   _key: ad_25
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: こねてまとめる！勝負のプリティーレシピ
-  放送日(TXN): 11/10/1
+  作画監修: 川島尚
+  放送日(TXN): '2011-10-01'
+  演出: 青葉譲
+  絵コンテ: 青葉譲
   話数: 26
   _key: ad_26
 - lives: []
+  脚本: 伊福部崇
   episodeOfSeries: ad
   サブタイトル: 南国ビーチのドルフィンビーナス
-  放送日(TXN): 11/10/8
+  作画監修: 空流辺広子
+  放送日(TXN): '2011-10-08'
+  演出: 関田修
+  絵コンテ: 誌村宏明
   話数: 27
   _key: ad_27
 - lives: []
+  脚本: 坪田文
   episodeOfSeries: ad
   サブタイトル: 頑固オヤジにはちみつキッス
-  放送日(TXN): 11/10/15
+  作画監修: 玉利和枝
+  放送日(TXN): '2011-10-15'
+  演出: 根岸宏樹
+  絵コンテ: 藤原良二
   話数: 28
   _key: ad_28
 - lives: []
+  脚本: 井内秀治
   episodeOfSeries: ad
   サブタイトル: トリオでジャンプ！Hip Hop Win！
-  放送日(TXN): 11/10/22
+  作画監修: しんぼたくろう
+  放送日(TXN): '2011-10-22'
+  演出: 徳本善信
+  絵コンテ: 井内秀治
   話数: 29
   _key: ad_29
 - lives: []
+  脚本: 坪田文
   episodeOfSeries: ad
   サブタイトル: ドキドキハロウィンはときめきじゃナイト☆
-  放送日(TXN): 11/10/29
+  作画監修: 石井ゆみ子
+  放送日(TXN): '2011-10-29'
+  演出: 京極尚彦
+  絵コンテ: 京極尚彦
   話数: 30
   _key: ad_30
 - lives: []
+  脚本: 田口智子
   episodeOfSeries: ad
   サブタイトル: あいらとふれあ、コラボっちゃお♡
-  放送日(TXN): 11/11/5
+  作画監修: 池田有
+  放送日(TXN): '2011-11-05'
+  演出: 加藤顕
+  絵コンテ: 藤原良二
   話数: 31
   _key: ad_31
 - lives: []
+  脚本: 伊福部崇
   episodeOfSeries: ad
   サブタイトル: 爆笑！せれのん浅草漫才修行
-  放送日(TXN): 11/11/12
+  作画監修: 空流辺広子
+  放送日(TXN): '2011-11-12'
+  演出: 徳本善信
+  絵コンテ: 徳本善信
   話数: 32
   _key: ad_32
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: あいら in ワンダーガール
-  放送日(TXN): 11/11/19
+  作画監修: 空流辺広子
+  放送日(TXN): '2011-11-19'
+  演出: 関田修
+  絵コンテ: 近藤信宏
   話数: 33
   _key: ad_33
 - lives: []
+  脚本: 村上桃子
   episodeOfSeries: ad
   サブタイトル: これって恋！？芸能界ラブバトル
-  放送日(TXN): 11/11/26
+  作画監修: 糸島雅彦
+  放送日(TXN): '2011-11-26'
+  演出: 矢花馨
+  絵コンテ: 矢花馨
   話数: 34
   _key: ad_34
 - lives: []
+  脚本: 坪田文
   episodeOfSeries: ad
   サブタイトル: MARsドリームライブ！
-  放送日(TXN): 11/12/3
+  作画監修: 日高真由美
+  放送日(TXN): '2011-12-03'
+  演出: 小林浩輔
+  絵コンテ: 藤原良二
   話数: 35
   _key: ad_35
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: かなめは天使？それとも悪魔？
-  放送日(TXN): 11/12/10
+  作画監修: しんぼたくろう
+  放送日(TXN): '2011-12-10'
+  演出: 徳本善信
+  絵コンテ: 青葉譲
   話数: 36
   _key: ad_36
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: 激闘！クリスタルハイヒールカップ
-  放送日(TXN): 11/12/17
+  作画監修: 藤田明
+  放送日(TXN): '2011-12-17'
+  演出: 京極尚彦
+  絵コンテ: 青葉譲
   話数: 37
   _key: ad_37
 - lives: []
+  脚本: 井内秀治
   episodeOfSeries: ad
   サブタイトル: ミラクル・スノーの降る夜に
-  放送日(TXN): 11/12/24
+  作画監修: 玉利和枝
+  放送日(TXN): '2011-12-24'
+  演出: 根岸宏樹
+  絵コンテ: 井内秀治
   話数: 38
   _key: ad_38
 - lives: []
+  脚本: 坪田文
   episodeOfSeries: ad
   サブタイトル: 新春特番・プリズムショーの魅力に迫る！
-  放送日(TXN): 12/1/7
+  作画監修: 池田有
+  放送日(TXN): '2012-01-07'
+  演出: 徳本善信
+  絵コンテ: 徳本善信
   話数: 39
   _key: ad_39
 - lives: []
+  脚本: 伊福部崇
   episodeOfSeries: ad
   サブタイトル: それぞれの決意
-  放送日(TXN): 12/1/14
+  作画監修: 石井ゆみ子
+  放送日(TXN): '2012-01-14'
+  演出: 徳本善信
+  絵コンテ: 青葉譲
   話数: 40
   _key: ad_40
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: ピュアプレミアムウェディングの願い
-  放送日(TXN): 12/1/21
+  作画監修: 森本由布希
+  放送日(TXN): '2012-01-21'
+  演出: 三好正人
+  絵コンテ: 矢花馨
   話数: 41
   _key: ad_41
 - lives: []
+  脚本: 田口智子
   episodeOfSeries: ad
   サブタイトル: りずむとそなた、運命の再開
-  放送日(TXN): 12/1/28
+  作画監修: 空流辺広子
+  放送日(TXN): '2012-01-28'
+  演出: 関田修
+  絵コンテ: 青葉譲
   話数: 42
   _key: ad_42
 - lives: []
+  脚本: 村上桃子
   episodeOfSeries: ad
   サブタイトル: 友情のピュアホワイトウェディング
-  放送日(TXN): 12/2/4
+  作画監修: 奥野浩行
+  放送日(TXN): '2012-02-04'
+  演出: 加藤顕
+  絵コンテ: 誌村宏明
   話数: 43
   _key: ad_43
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: スイート＆ビターバレンタイン
-  放送日(TXN): 12/2/11
+  作画監修: しんぼたくろう
+  放送日(TXN): '2012-02-11'
+  演出: 徳本善信
+  絵コンテ: 青葉譲
   話数: 44
   _key: ad_44
 - lives: []
+  脚本: 坪田文
   episodeOfSeries: ad
   サブタイトル: 光訪ねてブエノスアイレス
-  放送日(TXN): 12/2/18
+  作画監修: ワタナベケンイチ
+  放送日(TXN): '2012-02-18'
+  演出: 京極尚彦
+  絵コンテ: 京極尚彦
   話数: 45
   _key: ad_45
 - lives: []
+  脚本: 井内秀治
   episodeOfSeries: ad
   サブタイトル: 対決！あいらvsりずむ
-  放送日(TXN): 12/2/25
+  作画監修: 糸島雅彦
+  放送日(TXN): '2012-02-25'
+  演出: 徳本善信
+  絵コンテ: 青葉譲
   話数: 46
   _key: ad_46
 - lives: []
+  脚本: 伊福部崇
   episodeOfSeries: ad
   サブタイトル: ファイナリストをかけて
-  放送日(TXN): 12/3/3
+  作画監修: 池田有
+  放送日(TXN): '2012-03-03'
+  演出: 綿田慎也
+  絵コンテ: 青葉譲
   話数: 47
   _key: ad_47
 - lives: []
+  脚本: 坪田文
   episodeOfSeries: ad
   サブタイトル: そなたの冬
-  放送日(TXN): 12/3/10
+  作画監修: 空流辺広子
+  放送日(TXN): '2012-03-10'
+  演出: 関田修
+  絵コンテ: 青葉譲
   話数: 48
   _key: ad_48
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: 舞い上がれ、オーロラの翼
-  放送日(TXN): 12/3/17
+  作画監修: 石井ゆみ子
+  放送日(TXN): '2012-03-17'
+  演出: 加藤顕
+  絵コンテ: 青葉譲
   話数: 49
   _key: ad_49
 - lives: []
+  脚本: 赤尾でこ
   episodeOfSeries: ad
   サブタイトル: 新プリズムクイーン誕生！
-  放送日(TXN): 12/3/24
+  作画監修: 森本由布希
+  放送日(TXN): '2012-03-24'
+  演出: 徳本善信
+  絵コンテ: 青葉譲
   話数: 50
   _key: ad_50
 - lives: []
+  脚本: 坪田文
   episodeOfSeries: ad
   サブタイトル: Dream goes on...
-  放送日(TXN): 12/3/31
+  作画監修: しんぼたくろう
+  放送日(TXN): '2012-03-31'
+  演出: 京極尚彦
+  絵コンテ: 京極尚彦
   話数: 51
   _key: ad_51
 - lives: []
+  脚本: 赤尾でこ
+  episodeOfSeries: dmf
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: ハローマイフューチャー
+  ストーリーボード: Park Chi Man
+  作画監修: 空流辺広子
+  放送日(TXN): '2012-04-07'
+  演出: 青葉譲
+  絵コンテ: 近藤信宏
+  話数: 1
+  _key: dmf_1
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: あなたにきらめく王冠（クラウン）を
+  ストーリーボード: Sung Won Yong
+  作画監修: 空流辺広子
+  放送日(TXN): '2012-04-14'
+  演出: 青葉譲
+  絵コンテ: ワタナベシンイチ
+  話数: 2
+  _key: dmf_2
+- lives: []
+  脚本: 赤尾でこ
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: ゲット!マイファンコール
+  ストーリーボード: Song Geun Sik
+  作画監修: 空流辺広子
+  放送日(TXN): '2012-04-21'
+  演出: 青葉譲
+  絵コンテ: 香川豊
+  話数: 3
+  _key: dmf_3
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: ハートの革命・プリズムアクト!
+  ストーリーボード: Kim Young Beom
+  放送日(TXN): '2012-04-28'
+  演出: 加藤顕
+  絵コンテ: 近藤信宏
+  話数: 4
+  _key: dmf_4
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: 初恋!? マイ☆プリンス
+  ストーリーボード: Park Chi Man
+  作画監修: 伊藤良太
+  放送日(TXN): '2012-05-05'
+  演出: 小林浩輔
+  絵コンテ: 井内秀治
+  話数: 5
+  _key: dmf_5
+- lives: []
+  脚本: 有賀ひかる
+  episodeOfSeries: dmf
+  アニメーション演出: Sung Won Yong
+  サブタイトル: メモメモ禁止は困るのです!
+  ストーリーボード: Sung Won Yong
+  作画監修: 斉藤里枝
+  放送日(TXN): '2012-05-12'
+  演出: 青葉譲
+  絵コンテ: ワタナベシンイチ
+  話数: 6
+  _key: dmf_6
+- lives: []
+  脚本: 伊福部崇
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: リーダー争奪!Prizmmy☆総選挙
+  ストーリーボード: Song Geun Sik
+  作画監修: 伊藤良太
+  放送日(TXN): '2012-05-19'
+  演出: 小林浩輔
+  絵コンテ: 大原実
+  話数: 7
+  _key: dmf_7
+- lives: []
+  脚本: 赤尾でこ
+  episodeOfSeries: dmf
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: ラストメンバーはムダがお嫌い!
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2012-05-26'
+  演出: 徳本善信
+  絵コンテ: 京極尚彦
+  話数: 8
+  _key: dmf_8
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: 揺れるハート!イケメンデザイナー対決
+  ストーリーボード: Park Chi Man
+  作画監修: 戸田さやか
+  放送日(TXN): '2012-06-02'
+  演出: 小林浩輔
+  絵コンテ: 井内秀治
+  話数: 9
+  _key: dmf_9
+- lives: []
+  脚本: 伊福部崇
+  episodeOfSeries: dmf
+  アニメーション演出: Park Chi Man
+  サブタイトル: みあ脱退!?あいらとガチバトル
+  ストーリーボード: Sung Won Yong
+  作画監修: 伊藤良太
+  放送日(TXN): '2012-06-09'
+  演出: 高田淳
+  絵コンテ: ワタナベシンイチ
+  話数: 10
+  _key: dmf_10
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: MARsとドキドキ♥温泉合宿
+  ストーリーボード: Song Geun Sik
+  作画監修: 斉藤里枝
+  放送日(TXN): '2012-06-16'
+  演出: 小林浩輔
+  絵コンテ: ワタナベシンイチ
+  話数: 11
+  _key: dmf_11
+- lives: []
+  脚本: 赤尾でこ
+  episodeOfSeries: dmf
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: スタンドアップ!マイガールズソウル!
+  ストーリーボード: Park Chi Man
+  作画監修: 戸田さやか
+  放送日(TXN): '2012-06-23'
+  演出: 高田淳
+  絵コンテ: 青葉譲
+  話数: 12
+  _key: dmf_12
+- lives: []
+  脚本: 赤尾でこ
+  episodeOfSeries: dmf
+  アニメーション演出: Park Chi Man
+  サブタイトル: パフュームまとう運命の日!
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 伊藤良太
+  放送日(TXN): '2012-06-30'
+  演出: 小林浩輔
+  絵コンテ: 京極尚彦
+  話数: 13
+  _key: dmf_13
+- lives: []
+  脚本: 伊福部崇
+  episodeOfSeries: dmf
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: PURETTY 波乱のP-nation
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2012-07-07'
+  演出: 徳本善信
+  絵コンテ: 徳本善信
+  話数: 14
+  _key: dmf_14
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: バラのときめき♥ヒミツの王子様
+  ストーリーボード: Song Geun Sik
+  作画監修: 戸田さやか
+  放送日(TXN): '2012-07-14'
+  演出: 高田淳
+  絵コンテ: 井内秀治
+  話数: 15
+  _key: dmf_15
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: マジカルみおんDE自由研究!
+  ストーリーボード: Park Chi Man
+  作画監修: 伊藤良太
+  放送日(TXN): '2012-07-21'
+  演出: 小林浩輔
+  絵コンテ: ワタナベシンイチ
+  話数: 16
+  _key: dmf_16
+- lives: []
+  脚本: 有賀ひかる
+  episodeOfSeries: dmf
+  アニメーション演出: Na Ki Chual
+  サブタイトル: 動物園の王者、シユン
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 斉藤里枝
+  放送日(TXN): '2012-07-28'
+  演出: 高田淳
+  絵コンテ: 青葉譲
+  話数: 17
+  _key: dmf_17
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: dmf
+  アニメーション演出: Park Chi Man
+  サブタイトル: サマーバカンス!夏色マーメイド
+  ストーリーボード: Sung Won Yong
+  作画監修: 戸田さやか
+  放送日(TXN): '2012-08-04'
+  演出: 小林浩輔
+  絵コンテ: 近藤信宏
+  話数: 18
+  _key: dmf_18
+- lives: []
+  脚本: 伊福部崇
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: サマーフェス開幕!PURETTY Go! Go! Go!
+  ストーリーボード: Song Geun Sik
+  作画監修: 伊藤良太
+  放送日(TXN): '2012-08-11'
+  演出: 高田淳
+  絵コンテ: ワタナベシンイチ
+  話数: 19
+  _key: dmf_19
+- lives: []
+  脚本: 赤尾でこ
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: ラストノートは情熱の香り
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2012-08-18'
+  演出: 榎本守
+  絵コンテ: 榎本守
+  話数: 20
+  _key: dmf_20
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: 羽ばたきの心、シンフォニアの目覚め
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 戸田さやか
+  放送日(TXN): '2012-08-25'
+  演出: 小林浩輔
+  絵コンテ: ワタナベシンイチ
+  話数: 21
+  _key: dmf_21
+- lives: []
+  脚本: 赤尾でこ
+  episodeOfSeries: dmf
+  アニメーション演出: Park Chi Man
+  サブタイトル: ビッグラブでハートをシャッフル
+  ストーリーボード: Sung Won Yong
+  作画監修: 伊藤良太
+  放送日(TXN): '2012-09-01'
+  演出: 大野和寿
+  絵コンテ: ワタナベシンイチ
+  話数: 22
+  _key: dmf_22
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: 銀幕セレブリティーストーリー
+  ストーリーボード: Song Geun Sik
+  作画監修: 斉藤里枝
+  放送日(TXN): '2012-09-08'
+  演出: 小林浩輔
+  絵コンテ: 誌村宏明
+  話数: 23
+  _key: dmf_23
+- lives: []
+  脚本: 伊福部崇
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: お宝ゲットだ!チャムの大冒険!
+  ストーリーボード: Park Chi Man
+  作画監修: 戸田さやか
+  放送日(TXN): '2012-09-15'
+  演出: 徳本善信
+  絵コンテ: 青葉譲
+  話数: 24
+  _key: dmf_24
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: dmf
+  アニメーション演出: Na Ki Chual
+  サブタイトル: 元気が一番!プリズム・クッキング
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 伊藤良太
+  放送日(TXN): '2012-09-22'
+  演出: 小林浩輔
+  絵コンテ: 井内秀治
+  話数: 25
+  _key: dmf_25
+- lives: []
+  脚本: 赤尾でこ
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: 白と黒のウェディング
+  ストーリーボード: Song Geun Sik
+  作画監修: 斉藤里枝
+  放送日(TXN): '2012-09-29'
+  演出: 小林浩輔
+  絵コンテ: 青葉譲
+  話数: 26
+  _key: dmf_26
+- lives: []
+  脚本: 伊福部崇
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: 新チームでシャル ウィ ダンス?
+  ストーリーボード: Song Geun Sik
+  作画監修: 戸田さやか
+  放送日(TXN): '2012-10-06'
+  演出: 徳本善信
+  絵コンテ: 松尾慎
+  話数: 27
+  _key: dmf_27
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: dmf
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: りずむの告白 愛の言葉は……
+  ストーリーボード: Park Chi Man
+  放送日(TXN): '2012-10-13'
+  演出: 小林浩輔
+  絵コンテ: 井内秀治
+  話数: 28
+  _key: dmf_28
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Park Chi Man
+  サブタイトル: 女神（ミューズ）にささぐ I LOVE YOU
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 斉藤里枝
+  放送日(TXN): '2012-10-20'
+  演出: 徳本善信
+  絵コンテ: 青葉譲
+  話数: 29
+  _key: dmf_29
+- lives: []
+  脚本: 赤尾でこ
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: ハロウィンコーデはラブミックスコンチェルト
+  ストーリーボード: Sung Won Yong
+  作画監修: 戸田さやか
+  放送日(TXN): '2012-10-27'
+  演出: 小林浩輔
+  絵コンテ: ワタナベシンイチ
+  話数: 30
+  _key: dmf_30
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: Cheer! Yeah! ×2 夢を咲かせちゃえ!
+  ストーリーボード: Song Geun Sik
+  作画監修: 伊藤良太
+  放送日(TXN): '2012-11-03'
+  演出: 榎本守
+  絵コンテ: 榎本守
+  話数: 31
+  _key: dmf_31
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: dmf
+  アニメーション演出: Bak I Nam
+  サブタイトル: 風よ吹け!プリズムのハートに
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2012-11-10'
+  演出: 小林浩輔
+  絵コンテ: 井内秀治
+  話数: 32
+  _key: dmf_32
+- lives: []
+  脚本: 有賀ひかる
+  episodeOfSeries: dmf
+  アニメーション演出: Na Ki Chual
+  サブタイトル: 恋のパクパクレストラン
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 戸田さやか
+  放送日(TXN): '2012-11-17'
+  演出: 大野和寿
+  絵コンテ: ワタナベシンイチ
+  話数: 33
+  _key: dmf_33
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: 踊れダンスティーチャー
+  ストーリーボード: Sung Won Yong
+  作画監修: 伊藤良太
+  放送日(TXN): '2012-11-24'
+  演出: 小林浩輔
+  絵コンテ: ワタナベシンイチ
+  話数: 34
+  _key: dmf_34
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: ソミンのときめきハートブレイク
+  ストーリーボード: Song Geun Sik
+  作画監修: 斉藤里枝
+  放送日(TXN): '2012-12-01'
+  演出: 徳本善信
+  絵コンテ: 青葉譲
+  話数: 35
+  _key: dmf_35
+- lives: []
+  脚本: 伊福部崇
+  episodeOfSeries: dmf
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: 乙女の競演 ロードトゥシンフォニア
+  ストーリーボード: Park Chi Man
+  作画監修: 戸田さやか
+  放送日(TXN): '2012-12-08'
+  演出: 徳本善信
+  絵コンテ: 徳本善信
+  話数: 36
+  _key: dmf_36
+- lives: []
+  脚本: 赤尾でこ
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: あいらの決断
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 伊藤良太
+  放送日(TXN): '2012-12-15'
+  演出: 小林浩輔
+  絵コンテ: ワタナベシンイチ
+  話数: 37
+  _key: dmf_37
+- lives: []
+  脚本: 赤尾でこ
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: 夢と神秘のメタモルフォーゼ
+  ストーリーボード: Sung Won Yong
+  作画監修: 斉藤里枝
+  放送日(TXN): '2012-12-22'
+  演出: 小林浩輔
+  絵コンテ: ワタナベシンイチ
+  話数: 38
+  _key: dmf_38
+- lives: []
+  脚本: 伊福部崇
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: 沈黙のプリンセス
+  ストーリーボード: Song Geun Sik
+  作画監修: 戸田さやか
+  放送日(TXN): '2013-01-05'
+  演出: 徳本善信
+  絵コンテ: ワタナベシンイチ
+  話数: 39
+  _key: dmf_39
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: dmf
+  アニメーション演出: Na Ki Chual
+  サブタイトル: シンフォニア誕生の秘密
+  ストーリーボード: Park Chi Man
+  作画監修: 伊藤良太
+  放送日(TXN): '2013-01-12'
+  演出: 小林浩輔
+  絵コンテ: 井内秀治
+  話数: 40
+  _key: dmf_40
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: 友情のプリティーリメイク
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 斉藤里枝
+  放送日(TXN): '2013-01-19'
+  演出: 小林浩輔
+  絵コンテ: 大原実
+  話数: 41
+  _key: dmf_41
+- lives: []
+  脚本: 赤尾でこ
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: 宇宙の果てへ Go!スカイハイ
+  ストーリーボード: Sung Won Yong
+  作画監修: 戸田さやか
+  放送日(TXN): '2013-01-26'
+  演出: 徳本善信
+  絵コンテ: ワタナベシンイチ
+  話数: 42
+  _key: dmf_42
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: 立ち上がれスタァ!
+  ストーリーボード: Song Geun Sik
+  作画監修: 伊藤良太
+  放送日(TXN): '2013-02-02'
+  演出: 小林浩輔
+  絵コンテ: 松尾慎
+  話数: 43
+  _key: dmf_43
+- lives: []
+  脚本: 伊福部崇
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: 情熱レボリューション
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2013-02-09'
+  演出: 大野和寿
+  絵コンテ: ワタナベシンイチ
+  話数: 44
+  _key: dmf_44
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: 星空のプレリュード
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 戸田さやか
+  放送日(TXN): '2013-02-16'
+  演出: 小林浩輔
+  絵コンテ: ワタナベシンイチ
+  話数: 45
+  _key: dmf_45
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: dmf
+  アニメーション演出: Park Chi Man
+  サブタイトル: センター争奪!ライバルは友達?
+  ストーリーボード: Sung Won Yong
+  作画監修: 伊藤良太
+  放送日(TXN): '2013-02-23'
+  演出: 徳本善信
+  絵コンテ: 近藤信宏
+  話数: 46
+  _key: dmf_46
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Na Ki Chual
+  サブタイトル: ワガママみあ 前代未聞のドタキャン騒動
+  ストーリーボード: Song Geun Sik
+  作画監修: 斉藤里枝
+  放送日(TXN): '2013-03-02'
+  演出: 小林浩輔
+  絵コンテ: 誌村宏明
+  話数: 47
+  _key: dmf_47
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: 開演!グレイトフルシンフォニア
+  ストーリーボード: Park Chi Man
+  作画監修: 戸田さやか
+  放送日(TXN): '2013-03-09'
+  演出: 徳本善信
+  絵コンテ: ワタナベシンイチ
+  話数: 48
+  _key: dmf_48
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: 失われる明日
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 伊藤良太
+  放送日(TXN): '2013-03-16'
+  演出: 小林浩輔
+  絵コンテ: ワタナベシンイチ
+  話数: 49
+  _key: dmf_49
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Han Young Hoon
+  サブタイトル: 未来の私がいっちばーん!
+  ストーリーボード: Sung Won Yong
+  作画監修: 斉藤里枝
+  放送日(TXN): '2013-03-23'
+  演出: 小林浩輔
+  絵コンテ: ワタナベシンイチ
+  話数: 50
+  _key: dmf_50
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: dmf
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: Dear マイフューチャー
+  ストーリーボード: Song Geun Sik
+  作画監修: 戸田さやか
+  放送日(TXN): '2013-03-30'
+  演出: 小林浩輔
+  絵コンテ: ワタナベシンイチ
+  話数: 51
+  _key: dmf_51
+- lives: []
+  脚本: 加藤還一
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: ゆめかわアイドル始めちゃいました！？
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 2017年4月4日
+  放送日(TXN): '2017-04-04'
   演出: 佐藤まさふみ
   絵コンテ: 誌村宏明
-  脚本: 加藤還一
   話数: 1
   _key: ipp_1
 - lives: []
+  脚本: ふでやすかずゆき
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: ここ掘れ、アイドル
   ストーリーボード: Na Ki Chual
   作画監修: 斉藤里枝
-  放送日(TXN): 4月11日
+  放送日(TXN): '2017-04-11'
   演出: 板庇迪
   絵コンテ: 山本三輪子藤澤俊幸
-  脚本: ふでやすかずゆき
   話数: 2
   _key: ipp_2
 - lives: []
+  脚本: 金杉弘子
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: ゆめかわ！メイキングドラマ！
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 4月18日
+  放送日(TXN): '2017-04-18'
   演出: 黒瀬大輔
   絵コンテ: 柊陽菜
-  脚本: 金杉弘子
   話数: 3
   _key: ipp_3
 - lives: []
+  脚本: 大場小ゆり
   episodeOfSeries: ipp
   アニメーション演出: Park Chi Man
   サブタイトル: まいどぷり！みれぃやで！
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 4月25日
+  放送日(TXN): '2017-04-25'
   演出: 黒瀬大輔
   絵コンテ: 川口敬一郎
-  脚本: 大場小ゆり
   話数: 4
   _key: ipp_4
 - lives: []
+  脚本: 中村能子
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: プニコンのマネージャー修行クマ！
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 5月2日
+  放送日(TXN): '2017-05-02'
   演出: 江島泰男
   絵コンテ: 江島泰男
-  脚本: 中村能子
   話数: 5
   _key: ipp_5
 - lives: []
+  脚本: 加藤還一
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: ユメユメ！？男プリ潜入！
   ストーリーボード: Na Ki Chual
   作画監修: 斉藤里枝
-  放送日(TXN): 5月9日
+  放送日(TXN): '2017-05-09'
   演出: 小林浩輔
   絵コンテ: 葛谷直行
-  脚本: 加藤還一
   話数: 6
   _key: ipp_6
 - lives: []
+  脚本: 田辺茂範
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: そふぃがやってクール！
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 5月16日
+  放送日(TXN): '2017-05-16'
   演出: 徐恵眞
   絵コンテ: 柊陽菜
-  脚本: 田辺茂範
   話数: 7
   _key: ipp_7
 - lives: []
+  脚本: ふでやすかずゆき
   episodeOfSeries: ipp
   アニメーション演出: Park Chi Man
   サブタイトル: ライスをねらえ！
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 5月23日
+  放送日(TXN): '2017-05-23'
   演出: 板庇迪
   絵コンテ: 藤澤俊幸
-  脚本: ふでやすかずゆき
   話数: 8
   _key: ipp_8
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: おしゃれスタジオ始めたっての
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 5月30日
+  放送日(TXN): '2017-05-30'
   演出: 黒瀬大輔
   絵コンテ: 葛谷直行
-  脚本: 福田裕子
   話数: 9
   _key: ipp_9
 - lives: []
+  脚本: 加藤還一
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: 助っ人アイドル始めたっす！
   ストーリーボード: Na Ki Chual
   作画監修: 斉藤里枝
-  放送日(TXN): 6月6日
+  放送日(TXN): '2017-06-06'
   演出: 小林浩輔
   絵コンテ: 小林浩輔
-  脚本: 加藤還一
   話数: 10
   _key: ipp_10
 - lives: []
+  脚本: 金杉弘子
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 投げろ！アイドルタイムグランプリ
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 6月13日
+  放送日(TXN): '2017-06-13'
   演出: 室谷靖
   絵コンテ: 柊陽菜
-  脚本: 金杉弘子
   話数: 11
   _key: ipp_11
 - lives: []
+  脚本: 大場小ゆり
   episodeOfSeries: ipp
   アニメーション演出: Park Chi Man
   サブタイトル: 打て！アイドルタイムグランプリ
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 6月20日
+  放送日(TXN): '2017-06-20'
   演出: 板庇迪
   絵コンテ: 金崎貴臣山本三輪子
-  脚本: 大場小ゆり
   話数: 12
   _key: ipp_12
 - lives: []
+  脚本: 中村能子
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: レッツゴー！パラ宿
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 6月27日
+  放送日(TXN): '2017-06-27'
   演出: 渡辺健一郎
   絵コンテ: 渡辺健一郎
-  脚本: 中村能子
   話数: 13
   _key: ipp_13
 - lives: []
+  脚本: ふでやすかずゆき
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: ガァルマゲドンがきた！
   ストーリーボード: Na Ki Chual
   作画監修: 斉藤里枝
-  放送日(TXN): 7月4日
+  放送日(TXN): '2017-07-04'
   演出: 黒瀬大輔
   絵コンテ: 森脇真琴
-  脚本: ふでやすかずゆき
   話数: 14
   _key: ipp_14
 - lives: []
+  脚本: 田辺茂範
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: ミーチルみちる
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 7月11日
+  放送日(TXN): '2017-07-11'
   演出: 小林浩輔
   絵コンテ: 小林浩輔
-  脚本: 田辺茂範
   話数: 15
   _key: ipp_15
 - lives: []
+  脚本: ふでやすかずゆき
   episodeOfSeries: ipp
   アニメーション演出: Park Chi Man
   サブタイトル: あの地獄にさよならを
   ストーリーボード: Park Chi Man
   作画監修: 本多恵美
-  放送日(TXN): 7月18日
+  放送日(TXN): '2017-07-18'
   演出: 国崎友也
   絵コンテ: 国崎友也
-  脚本: ふでやすかずゆき
   話数: 16
   _key: ipp_16
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: アイドル借り物バトルっす！
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 7月25日
+  放送日(TXN): '2017-07-25'
   演出: 黒瀬大輔
   絵コンテ: 大久保政雄
-  脚本: 福田裕子
   話数: 17
   _key: ipp_17
 - lives: []
+  脚本: 加藤還一
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: グランプリ！勝利へのエスコート
   ストーリーボード: Na Ki Chual
   作画監修: 戸田さやか
-  放送日(TXN): 8月1日
+  放送日(TXN): '2017-08-01'
   演出: 小林浩輔
   絵コンテ: 藤澤俊幸
-  脚本: 加藤還一
   話数: 18
   _key: ipp_18
 - lives: []
+  脚本: 大場小ゆり
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 旅立てアイドル！レッツ・イゴー！
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 8月8日
+  放送日(TXN): '2017-08-08'
   演出: 板庇迪
   絵コンテ: 柊陽菜
-  脚本: 大場小ゆり
   話数: 19
   _key: ipp_19
 - lives: []
+  脚本: 中村能子
   episodeOfSeries: ipp
   アニメーション演出: Park Chi Man
   サブタイトル: ハッピー米（まい）バースデイ
   ストーリーボード: Park Chi Man
   作画監修: 本多恵美
-  放送日(TXN): 8月15日
+  放送日(TXN): '2017-08-15'
   演出: 板庇迪
   絵コンテ: 葛谷直行
-  脚本: 中村能子
   話数: 20
   _key: ipp_20
 - lives: []
+  脚本: 金杉弘子
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: ドキドキ！みちなる麺パラ
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 8月22日
+  放送日(TXN): '2017-08-22'
   演出: 江島泰男
   絵コンテ: 森脇真琴
-  脚本: 金杉弘子
   話数: 21
   _key: ipp_21
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: プール de（ド） プランス 大レース！
   ストーリーボード: Na Ki Chual
   作画監修: 諏訪壮大
-  放送日(TXN): 8月29日
+  放送日(TXN): '2017-08-29'
   演出: 小林浩輔
   絵コンテ: 小林浩輔
-  脚本: 福田裕子
   話数: 22
   _key: ipp_22
 - lives: []
+  脚本: ふでやすかずゆき
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 地獄アイドル始めちゃいました！？
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 9月5日
+  放送日(TXN): '2017-09-05'
   演出: 黒瀬大輔
   絵コンテ: 山本三輪子金崎貴臣
-  脚本: ふでやすかずゆき
   話数: 23
   _key: ipp_23
 - lives: []
+  脚本: 加藤還一
   episodeOfSeries: ipp
   アニメーション演出: Park Chi Man
   サブタイトル: 勝負っす！シオン先輩！
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 9月12日
+  放送日(TXN): '2017-09-12'
   演出: 黒瀬大輔
   絵コンテ: 柊陽菜
-  脚本: 加藤還一
   話数: 24
   _key: ipp_24
 - lives: []
+  脚本: 田辺茂範
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: ユメユメ！タイムスリップ
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 9月19日
+  放送日(TXN): '2017-09-19'
   演出: 小林浩輔
   絵コンテ: 森脇真琴
-  脚本: 田辺茂範
   話数: 25
   _key: ipp_25
 - lives: []
+  脚本: ふでやすかずゆき
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: がんばれみちる！！
   ストーリーボード: Na Ki Chual
   作画監修: 斉藤里枝
-  放送日(TXN): 9月26日
+  放送日(TXN): '2017-09-26'
   演出: 江島泰男
   絵コンテ: 大久保政雄
-  脚本: ふでやすかずゆき
   話数: 26
   _key: ipp_26
 - lives: []
+  脚本: 金杉弘子
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 華園しゅうかでございます
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 10月3日
+  放送日(TXN): '2017-10-03'
   演出: 江副仁美
   絵コンテ: 葛谷直行
-  脚本: 金杉弘子
   話数: 27
   _key: ipp_27
 - lives: []
+  脚本: 大場小ゆり
   episodeOfSeries: ipp
   アニメーション演出: Park Chi Man
   サブタイトル: いっちばーんがやってきた！
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 10月10日
+  放送日(TXN): '2017-10-10'
   演出: 小林浩輔
   絵コンテ: 小林浩輔
-  脚本: 大場小ゆり
   話数: 28
   _key: ipp_28
 - lives: []
+  脚本: 加藤還一
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: グランプリ大決戦！
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 10月17日
+  放送日(TXN): '2017-10-17'
   演出: 渡辺健一郎
   絵コンテ: 渡辺健一郎
-  脚本: 加藤還一
   話数: 29
   _key: ipp_29
 - lives: []
+  脚本: 土屋理敬
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: ガァララとパックが夢パックン！
   ストーリーボード: Na Ki Chual
   作画監修: 斉藤里枝
-  放送日(TXN): 10月24日
+  放送日(TXN): '2017-10-24'
   演出: 黒瀬大輔
   絵コンテ: 藤澤俊幸
-  脚本: 土屋理敬
   話数: 30
   _key: ipp_30
 - lives: []
+  脚本: 田辺茂範
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 復活！ファララ・ア・ラーム
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 10月31日
+  放送日(TXN): '2017-10-31'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: 田辺茂範
   話数: 31
   _key: ipp_31
 - lives: []
+  脚本: 加藤還一
   episodeOfSeries: ipp
   アニメーション演出: Park Chi Man
   サブタイトル: WITHとプリ×プリフェスティバル！
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 11月7日
+  放送日(TXN): '2017-11-07'
   演出: 江島泰男
   絵コンテ: 江島泰男
-  脚本: 加藤還一
   話数: 32
   _key: ipp_32
 - lives: []
+  脚本: ふでやすかずゆき
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: ガァララ塔のひみつっす
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 11月14日
+  放送日(TXN): '2017-11-14'
   演出: 黒瀬大輔
   絵コンテ: 葛谷直行
-  脚本: ふでやすかずゆき
   話数: 33
   _key: ipp_33
 - lives: []
+  脚本: 大場小ゆり
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: ガァララの森
   ストーリーボード: Na Ki Chual
   作画監修: 斉藤里枝
-  放送日(TXN): 11月21日
+  放送日(TXN): '2017-11-21'
   演出: 野木森達哉
   絵コンテ: 誌村宏明
-  脚本: 大場小ゆり
   話数: 34
   _key: ipp_34
 - lives: []
+  脚本: 田辺茂範
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 未知とのミーチル
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 11月28日
+  放送日(TXN): '2017-11-28'
   演出: 江島泰男
   絵コンテ: 山本三輪子金崎貴臣
-  脚本: 田辺茂範
   話数: 35
   _key: ipp_35
 - lives: []
+  脚本: 金杉弘子
   episodeOfSeries: ipp
   アニメーション演出: Park Chi Man
   サブタイトル: ユメ目合宿大ピンチ！
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 12月5日
+  放送日(TXN): '2017-12-05'
   演出: 黒瀬大輔
   絵コンテ: 藤澤俊幸
-  脚本: 金杉弘子
   話数: 36
   _key: ipp_36
 - lives: []
+  脚本: 加藤還一
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: ホップ・ステップ・グランプリ！
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 12月12日
+  放送日(TXN): '2017-12-12'
   演出: 小林浩輔
   絵コンテ: 小林浩輔
-  脚本: 加藤還一
   話数: 37
   _key: ipp_37
 - lives: []
+  脚本: ふでやすかずゆき
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: ユメリー・メガネマス★
   ストーリーボード: Na Ki Chual
   作画監修: 斉藤里枝
-  放送日(TXN): 12月19日
+  放送日(TXN): '2017-12-19'
   演出: 黒瀬大輔
   絵コンテ: 柊陽菜
-  脚本: ふでやすかずゆき
   話数: 38
   _key: ipp_38
 - lives: []
+  脚本: 田辺茂範
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 年末！ババ大そうじでっすわ！
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 12月26日
+  放送日(TXN): '2017-12-26'
   演出: 安藤良
   絵コンテ: 大久保政雄
-  脚本: 田辺茂範
   話数: 39
   _key: ipp_39
 - lives: []
+  脚本: 金杉弘子
   episodeOfSeries: ipp
   アニメーション演出: Park Chi Man
   サブタイトル: パラ宿プルトラクイズ！
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 2018年1月9日
+  放送日(TXN): '2018-01-09'
   演出: 渡辺健一郎
   絵コンテ: 渡辺健一郎
-  脚本: 金杉弘子
   話数: 40
   _key: ipp_40
 - lives: []
+  脚本: 大場小ゆり
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: しゅうかとガァララ
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 1月16日
+  放送日(TXN): '2018-01-16'
   演出: 黒瀬大輔
   絵コンテ: 山本三輪子金崎貴臣
-  脚本: 大場小ゆり
   話数: 41
   _key: ipp_41
 - lives: []
+  脚本: 加藤還一
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: ディア・マイ・トモダチ！
   ストーリーボード: Na Ki Chual
   作画監修: 斉藤里枝
-  放送日(TXN): 1月23日
+  放送日(TXN): '2018-01-23'
   演出: 小林浩輔
   絵コンテ: 藤澤俊幸
-  脚本: 加藤還一
   話数: 42
   _key: ipp_42
 - lives: []
+  脚本: ふでやすかずゆき
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 燃えよにの
   ストーリーボード: Nam Sung Min
   作画監修: "-"
-  放送日(TXN): 1月30日
+  放送日(TXN): '2018-01-30'
   演出: 黒瀬大輔
   絵コンテ: 柊陽菜
-  脚本: ふでやすかずゆき
   話数: 43
   _key: ipp_43
 - lives: []
+  脚本: 田辺茂範
   episodeOfSeries: ipp
   アニメーション演出: Park Chi Man
   サブタイトル: みちるさまとお呼びなさい
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 2月6日
+  放送日(TXN): '2018-02-06'
   演出: 室谷靖
   絵コンテ: 誌村宏明
-  脚本: 田辺茂範
   話数: 44
   _key: ipp_44
 - lives: []
+  脚本: 大場小ゆり
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: 決戦！ゆいvsしゅうか
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 2月13日
+  放送日(TXN): '2018-02-13'
   演出: 江副仁美
   絵コンテ: 藤澤俊幸
-  脚本: 大場小ゆり
   話数: 45
   _key: ipp_45
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: 時をこえてマイドリーム！
   ストーリーボード: Na Ki Chual
   作画監修: 斉藤里枝
-  放送日(TXN): 2月20日
+  放送日(TXN): '2018-02-20'
   演出: 黒瀬大輔
   絵コンテ: 柊陽菜
-  脚本: 福田裕子
   話数: 46
   _key: ipp_46
 - lives: []
+  脚本: 金杉弘子
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: パックでパニック！大暴れ！
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 2月27日
+  放送日(TXN): '2018-02-27'
   演出: 小林浩輔
   絵コンテ: 山本三輪子金崎貴臣
-  脚本: 金杉弘子
   話数: 47
   _key: ipp_47
 - lives: []
+  脚本: 加藤還一
   episodeOfSeries: ipp
   アニメーション演出: Park Chi Man
   サブタイトル: らぁらに届け、カムバックライブ！
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 3月6日
+  放送日(TXN): '2018-03-06'
   演出: 安藤良
   絵コンテ: 誌村宏明
-  脚本: 加藤還一
   話数: 48
   _key: ipp_48
 - lives: []
+  脚本: ふでやすかずゆき
   episodeOfSeries: ipp
   アニメーション演出: Nam Sung Min
   サブタイトル: 誕生しちゃうぜ！神アイドル!?
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 3月13日
+  放送日(TXN): '2018-03-13'
   演出: 佐藤まさふみ
   絵コンテ: 佐藤まさふみ森脇真琴
-  脚本: ふでやすかずゆき
   話数: 49
   _key: ipp_49
 - lives: []
+  脚本: 土屋理敬
   episodeOfSeries: ipp
   アニメーション演出: Na Ki Chual
   サブタイトル: 夢のツバサで飛べマイドリーム！
   ストーリーボード: Na Ki Chual
   作画監修: 柚山麻美
-  放送日(TXN): 3月20日
+  放送日(TXN): '2018-03-20'
   演出: 森脇真琴
   絵コンテ: 森脇真琴
-  脚本: 土屋理敬
   話数: 50
   _key: ipp_50
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: ipp
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: み～んなあつまれ！アイドル始める時間だよ！
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 3月27日
+  放送日(TXN): '2018-03-27'
   演出: 渡辺健一郎
   絵コンテ: 渡辺健一郎
-  脚本: 福田裕子
   話数: 51
   _key: ipp_51
 - lives:
   - prichan_1_ready_action
+  脚本: 兵頭一歩
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/13143
+  アニメーション演出: Park Chi Man
   サブタイトル: キラッとプリ☆チャンやってみた！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-04-08'
+  演出: 博史池畠
+  絵コンテ: 博史池畠
   話数: 1
   _key: prichan_1
 - lives: []
+  脚本: 兵頭一歩
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/13486
+  アニメーション演出: Nam Sung Min
   サブタイトル: フラワーショップでプリ☆チャンやってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-04-15'
+  演出: 川瀬まさお
+  絵コンテ: 博史池畠
   話数: 2
   _key: prichan_2
 - lives: []
+  脚本: 兵頭一歩
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/13708
+  アニメーション演出: Na Ki Chual
   サブタイトル: アイドルソングつくってみた！
+  ストーリーボード: Na Ki Chual
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-04-22'
+  演出: 江島泰男
+  絵コンテ: 柊陽菜
   話数: 3
   _key: prichan_3
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/13709
+  アニメーション演出: Na Ki Chual
   サブタイトル: スイーツをアピールしてみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-04-29'
+  演出: 川瀬まさお
+  絵コンテ: 川瀬まさお
   話数: 4
   _key: prichan_4
 - lives:
   - prichan_5_one_two_sweets
+  脚本: 雑破業
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/13710
+  アニメーション演出: Park Chi Man
   サブタイトル: ガッツでアツくなってみた！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-05-06'
+  演出: 川瀬まさお
+  絵コンテ: 博史池畠
   話数: 5
   _key: prichan_5
 - lives:
   - prichan_6_suki_suki_sensor
+  脚本: 佐藤裕
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14089
+  アニメーション演出: Nam Sung Min
   サブタイトル: エール、送ってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-05-13'
+  演出: 髙田昌豊
+  絵コンテ: 髙田昌豊
   話数: 6
   _key: prichan_6
 - lives: []
+  脚本: 冨田頼子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14135
+  アニメーション演出: Na Ki Chual
   サブタイトル: ねこ動画を撮ってみた！
+  ストーリーボード: Na Ki Chual
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-05-20'
+  演出: 野木森達哉
+  絵コンテ: 金崎貴臣
   話数: 7
   _key: prichan_7
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14196
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: ヘア＆メイクでおしゃれしてみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-05-27'
+  演出: 野木森達哉
+  絵コンテ: 柊陽菜
   話数: 8
   _key: prichan_8
 - lives: []
+  脚本: 雑破業
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14282
+  アニメーション演出: Park Chi Man
   サブタイトル: ワタクシ、チャレンジしてみましたわ！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-06-03'
+  演出: 黒瀬大輔
+  絵コンテ: 黒瀬大輔
   話数: 9
   _key: prichan_9
 - lives: []
+  脚本: 佐藤裕
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14299
+  アニメーション演出: Nam Sung Min
   サブタイトル: ライバルとデートしてみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-06-10'
+  演出: 徳野雄士
+  絵コンテ: 仁賀緑朗
   話数: 10
   _key: prichan_10
 - lives: []
+  脚本: 中村能子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14300
+  アニメーション演出: Na Ki Chual
   サブタイトル: はじめてスペシャルやってみた！
+  ストーリーボード: Na Ki Chual
+  作画監修: 満田一
+  放送日(TXN): '2018-06-17'
+  演出: 白石空
+  絵コンテ: 博史池畠
   話数: 11
   _key: prichan_11
 - lives: []
+  脚本: 冨田頼子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14301
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: ハートを燃やしてみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 満田一
+  放送日(TXN): '2018-06-24'
+  演出: 黒瀬大輔
+  絵コンテ: 柊陽菜
   話数: 12
   _key: prichan_12
 - lives: []
+  脚本: 兵頭一歩
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14302
+  アニメーション演出: Park Chi Man
   サブタイトル: 桃山みらいが、とんでみた！
+  ストーリーボード: Park Chi Man
+  作画監修: 満田一
+  放送日(TXN): '2018-07-01'
+  演出: 渡辺健一郎
+  絵コンテ: 渡辺健一郎
   話数: 13
   _key: prichan_13
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14303
+  アニメーション演出: Nam Sung Min
   サブタイトル: ファンだって盛り上がってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-07-08'
+  演出: 米田光宏
+  絵コンテ: 仁賀緑朗
   話数: 14
   _key: prichan_14
 - lives: []
+  脚本: 雑破業
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14304
+  アニメーション演出: Na Ki Chual
   サブタイトル: りんか、やってみた！
+  ストーリーボード: Na Ki Chual
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-07-15'
+  演出: 白石空
+  絵コンテ: 金崎貴臣
   話数: 15
   _key: prichan_15
 - lives: []
+  脚本: 雑破業
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14305
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: 心の迷いを抜けてみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-07-22'
+  演出: 黒瀬大輔
+  絵コンテ: 黒瀬大輔
   話数: 16
   _key: prichan_16
 - lives: []
+  脚本: 中村能子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14306
+  アニメーション演出: Park Chi Man
   サブタイトル: 笑顔でさよならしてみた！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-07-29'
+  演出: 秦義人
+  絵コンテ: 柊陽菜
   話数: 17
   _key: prichan_17
 - lives: []
+  脚本: 佐藤裕
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14307
+  アニメーション演出: Nam Sung Min
   サブタイトル: サマーなスペシャルやってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-08-05'
+  演出: 北村将
+  絵コンテ: 高橋謙仁
   話数: 18
   _key: prichan_18
 - lives: []
+  脚本: 冨田頼子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14308
+  アニメーション演出: Na Ki Chual
   サブタイトル: 夏だ！ビーチだ！行ってみた！
+  ストーリーボード: Na Ki Chual
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-08-12'
+  演出: 黒瀬大輔
+  絵コンテ: 金崎貴臣
   話数: 19
   _key: prichan_19
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/14309
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: ヤッホー！山のぼってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-08-19'
+  演出: 江島泰男
+  絵コンテ: 柊陽菜
   話数: 20
   _key: prichan_20
 - lives: []
+  脚本: 雑破業
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/15821
+  アニメーション演出: Park Chi Man
   サブタイトル: 真夏のフェスでやってみた！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-08-26'
+  演出: 黒瀬大輔
+  絵コンテ: 黒瀬大輔
   話数: 21
   _key: prichan_21
 - lives: []
+  脚本: 中村能子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/15931
+  アニメーション演出: Nam Sung Min
   サブタイトル: わたくし、イルカと翔んでみましたわ！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-09-02'
+  演出: 徳野雄士
+  絵コンテ: 麦野アイス
   話数: 22
   _key: prichan_22
 - lives: []
+  脚本: 兵頭一歩
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/15991
+  アニメーション演出: Na Ki Chual
   サブタイトル: めるめると出会ってみた！
+  ストーリーボード: Na Ki Chual
+  作画監修: 満田一
+  放送日(TXN): '2018-09-09'
+  演出: 米田光宏
+  絵コンテ: 柊陽菜
   話数: 23
   _key: prichan_23
 - lives: []
+  脚本: 兵頭一歩
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/16039
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: 星の願いをかなえてみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-09-16'
+  演出: 髙田昌豊
+  絵コンテ: 博史池畠
   話数: 24
   _key: prichan_24
 - lives: []
+  脚本: 佐藤裕
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/16109
+  アニメーション演出: Park Chi Man
   サブタイトル: めるが探偵やってみた！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-09-23'
+  演出: 渡辺健一郎
+  絵コンテ: 渡辺健一郎
   話数: 25
   _key: prichan_25
 - lives: []
+  脚本: 雑破業
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/16356
+  アニメーション演出: Nam Sung Min
   サブタイトル: おかしなイタズラやってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-09-30'
+  演出: 北村将
+  絵コンテ: 金崎貴臣
   話数: 26
   _key: prichan_26
 - lives: []
+  脚本: 冨田頼子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/16509
+  アニメーション演出: Na Ki Chual
   サブタイトル: 笑顔で決めてみましたわ！
+  ストーリーボード: Na Ki Chual
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-10-07'
+  演出: 国崎友也
+  絵コンテ: 国崎友也
   話数: 27
   _key: prichan_27
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/16654
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: セレブなパーティ行ってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-10-14'
+  演出: 秦義人
+  絵コンテ: 麦野アイス
   話数: 28
   _key: prichan_28
 - lives: []
+  脚本: 中村能子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/16741
+  アニメーション演出: Park Chi Man
   サブタイトル: キラキラ、さがしてみた！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-10-21'
+  演出: 黒瀬大輔
+  絵コンテ: 黒瀬大輔
   話数: 29
   _key: prichan_29
 - lives: []
+  脚本: 雑破業
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/16808
+  アニメーション演出: Nam Sung Min
   サブタイトル: おジャマハロウィンやってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-10-28'
+  演出: 佐藤まさふみ
+  絵コンテ: 佐藤まさふみ
   話数: 30
   _key: prichan_30
 - lives: []
+  脚本: 佐藤裕
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/16918
+  アニメーション演出: Na Ki Chual
   サブタイトル: マンガの現場いってみた！
+  ストーリーボード: Na Ki Chual
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-11-04'
+  演出: 米田光宏
+  絵コンテ: 博史池畠
   話数: 31
   _key: prichan_31
 - lives: []
+  脚本: 兵頭一歩
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17081
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: 気になるウワサ追ってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-11-11'
+  演出: 徳野雄士
+  絵コンテ: 森脇真琴
   話数: 32
   _key: prichan_32
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17134
+  アニメーション演出: Park Chi Man
   サブタイトル: さらちゃんがモフモフしてみた！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-11-18'
+  演出: 北村将
+  絵コンテ: 柊陽菜
   話数: 33
   _key: prichan_33
 - lives: []
+  脚本: 冨田頼子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17202
+  アニメーション演出: Nam Sung Min
   サブタイトル: 俺たち解散してみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-11-25'
+  演出: 秦義人
+  絵コンテ: 麦野アイス
   話数: 34
   _key: prichan_34
 - lives: []
+  脚本: 雑破業
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17337
+  アニメーション演出: Na Ki Chual
   サブタイトル: 友情、時をこえてみた！
+  ストーリーボード: Na Ki Chual
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-12-02'
+  演出: 野木森達哉
+  絵コンテ: 誌村宏明
   話数: 35
   _key: prichan_35
 - lives: []
+  脚本: 中村能子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17338
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: 100点めざしてみましたわ！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-12-09'
+  演出: 黒瀬大輔
+  絵コンテ: 黒瀬大輔
   話数: 36
   _key: prichan_36
 - lives: []
+  脚本: 佐藤裕
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17364
+  アニメーション演出: Park Chi Man
   サブタイトル: ウィンターなスペシャルやってみた！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-12-16'
+  演出: 渡辺健一郎
+  絵コンテ: 渡辺健一郎
   話数: 37
   _key: prichan_37
 - lives: []
+  脚本: 雑破業
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17433
+  アニメーション演出: Nam Sung Min
   サブタイトル: あいらさんとやってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2018-12-23'
+  演出: 佐藤まさふみ
+  絵コンテ: 佐藤まさふみ
   話数: 38
   _key: prichan_38
 - lives: []
+  脚本: 兵頭一歩
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17526
+  アニメーション演出: Na Ki Chual
   サブタイトル: アンジュの島にいってみた！
+  ストーリーボード: Na Ki Chual
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-01-06'
+  演出: 黒瀬大輔
+  絵コンテ: 麦野アイス
   話数: 39
   _key: prichan_39
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17541
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: さららの家に泊ってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-01-13'
+  演出: 北村将
+  絵コンテ: 川瀬まさお
   話数: 40
   _key: prichan_40
 - lives: []
+  脚本: 中村能子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17663
+  アニメーション演出: Park Chi Man
   サブタイトル: 春太のデート応援してみた！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-01-20'
+  演出: 秦義人
+  絵コンテ: 金崎貴臣
   話数: 41
   _key: prichan_41
 - lives: []
+  脚本: 冨田頼子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17733
+  アニメーション演出: Nam Sung Min
   サブタイトル: りんか？がりんかやってみた！?
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-01-27'
+  演出: 米田光宏
+  絵コンテ: 米田光宏
   話数: 42
   _key: prichan_42
 - lives: []
+  脚本: 佐藤裕
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17814
+  アニメーション演出: Na Ki Chual
   サブタイトル: チョコ作ってみた！
+  ストーリーボード: Na Ki Chual
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-02-03'
+  演出: 黒瀬大輔
+  絵コンテ: 黒瀬大輔
   話数: 43
   _key: prichan_43
 - lives: []
+  脚本: 雑破業
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17927
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: ファッションショー手伝ってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-02-10'
+  演出: 伊藤浩
+  絵コンテ: 小松達彦
   話数: 44
   _key: prichan_44
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17952
+  アニメーション演出: Park Chi Man
   サブタイトル: アンジュさんのホンネ聞いてみた！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-02-17'
+  演出: 秦義人
+  絵コンテ: 麦野アイス
   話数: 45
   _key: prichan_45
 - lives: []
+  脚本: 兵頭一歩
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/17975
+  アニメーション演出: Nam Sung Min
   サブタイトル: みんなの想いを届けてみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-02-24'
+  演出: 黒瀬大輔
+  絵コンテ: 大宙征基
   話数: 46
   _key: prichan_46
 - lives: []
+  脚本: 雑破業
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/18042
+  アニメーション演出: Na Ki Chual
   サブタイトル: "「わからない」からやってみた！"
+  ストーリーボード: Na Ki Chual
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-03-03'
+  演出: 米田光宏
+  絵コンテ: 誌村宏明
   話数: 47
   _key: prichan_47
 - lives: []
+  脚本: 佐藤裕
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/18121
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: 決着　つけてみましたわ！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-03-10'
+  演出: 渡辺健一郎
+  絵コンテ: 渡辺健一郎
   話数: 48
   _key: prichan_48
 - lives: []
+  脚本: 冨田頼子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/18188
+  アニメーション演出: Park Chi Man
   サブタイトル: さがして、さがして、さがしてみた！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-03-17'
+  演出: 秦義人
+  絵コンテ: 金崎貴臣
   話数: 49
   _key: prichan_49
 - lives: []
+  脚本: 兵頭一歩
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/18256
+  アニメーション演出: Nam Sung Min
   サブタイトル: 夢のプリ☆チャン、やってみた！
+  ストーリーボード: Nam Sung Min
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-03-24'
+  演出: 茉田哲明
+  絵コンテ: 博史池畠
   話数: 50
   _key: prichan_50
 - lives: []
+  脚本: 中村能子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/18319
+  アニメーション演出: Na Ki Chual
   サブタイトル: キラッとお別れ、やってみた！
+  ストーリーボード: Na Ki Chual
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-03-31'
+  演出: 米田光宏
+  絵コンテ: 小松達彦
   話数: 51
   _key: prichan_51
 - lives:
   - prichan_52_tokimeki_heart_jewel
+  脚本: 涼村千夏
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/18716
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: ドキドキ！　わくわく！ ジュエルオーディション開幕だもん！
-  放送日(TXN): 19/4/7
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-04-07'
+  演出: 大島克也
+  絵コンテ: 麦野アイス
   話数: 52
   _key: prichan_52
 - lives: []
+  脚本: 福田裕子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/18717
+  アニメーション演出: Park Chi Man
   サブタイトル: まりあちゃんがやって来た！ かわいい向上委員会だもん！
-  放送日(TXN): 19/4/14
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-04-14'
+  演出: 黒瀬大輔
+  絵コンテ: 黒瀬大輔
   話数: 53
   _key: prichan_53
 - lives: []
+  脚本: 雑破業
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/18750
+  アニメーション演出: Nam Sung Min
   サブタイトル: ジュエルチャンス？ みらいがチャレンジだもん！
-  放送日(TXN): 19/4/21
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-04-21'
+  演出: 伊藤浩
+  絵コンテ: 川瀬まさお
   話数: 54
   _key: prichan_54
 - lives: []
+  脚本: 兵頭一歩
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/18852
+  アニメーション演出: Choi Hun Cheol
   サブタイトル: キラッとときめき！ これがジュエルコーデだもん！
-  放送日(TXN): 19/4/28
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2019-04-28'
+  演出: 秦義人
+  絵コンテ: 金崎貴臣
   話数: 55
   _key: prichan_55
 - lives:
   - prichan_56_shiawasei_kawaii_sanka
+  脚本: 佐藤裕
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/18888
+  アニメーション演出: Jeon Byung Cheol
   サブタイトル: まりあが宣言！ かわいいは世界を救うんだもん！
-  放送日(TXN): 19/5/5
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-05-05'
+  演出: 黒瀬大輔
+  絵コンテ: 大宙征基
   話数: 56
   _key: prichan_56
 - lives:
   - prichan_57_shiawasei_kawaii_sanka
+  脚本: 冨田頼子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/18962
+  アニメーション演出: Park Chi Man
   サブタイトル: まりあちゃん！すずちゃん！ ２人で初めての番組だもん！
-  放送日(TXN): 19/5/12
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2019-05-12'
+  演出: 米田光宏
+  絵コンテ: 米田光宏
   話数: 57
   _key: prichan_57
 - lives:
   - prichan_58_yumeiro_energy
+  脚本: 中村能子
   episodeOfSeries: prichan
   あにてれ: https://ch.ani.tv/episodes/19057
+  アニメーション演出: Nam Sung Min
   サブタイトル: めが姉ぇ大ピンチ！ りんかちゃん一日店長なんだもん！
-  放送日(TXN): 19/5/19
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-05-19'
+  演出: 秦義人
+  絵コンテ: 麦野アイス
   話数: 58
   _key: prichan_58
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/19100
+  アニメーション演出: Na Ki Chual
+  サブタイトル: 絵本がいっぱい！ おしゃれブックカフェはじめました　だもん！
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2019-05-26'
+  演出: 渡辺健一郎
+  絵コンテ: 渡辺健一郎
+  話数: 59
+  _key: prichan_59
+- lives: []
+  脚本: 雑破業
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/19141
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: ステキに楽しく！ デザインパレットだもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-06-02'
+  演出: 大島克也
+  絵コンテ: 大島克也
+  話数: 60
+  _key: prichan_60
+- lives: []
+  脚本: 佐藤裕
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/19243
+  アニメーション演出: Park Chi Man
+  サブタイトル: ビックリドッキリ！ メルティックスターが帰ってくる？だもん！
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2019-06-09'
+  演出: 黒瀬大輔
+  絵コンテ: 小松達彦
+  話数: 61
+  _key: prichan_61
+- lives: []
+  脚本: 冨田頼子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/19331
+  アニメーション演出: Nam Sung Min
+  サブタイトル: まりあとすず！ メルティックスターとこんにちはだもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-06-16'
+  演出: 伊藤浩
+  絵コンテ: 西森章
+  話数: 62
+  _key: prichan_62
+- lives: []
+  脚本: 中村能子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/19362
+  アニメーション演出: Na Ki Chual
+  サブタイトル: めるちゃんと！ 仲良し合宿してみたんだもん！
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2019-06-23'
+  演出: 米田光宏
+  絵コンテ: 誌村宏明
+  話数: 63
+  _key: prichan_63
+- lives: []
+  脚本: 兵頭一歩
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/19500
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: だいあフェス！ いよいよカラッとはじまるんだもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-06-30'
+  演出: 黒瀬大輔
+  絵コンテ: 麦野アイス
+  話数: 64
+  _key: prichan_64
+- lives: []
+  脚本: 雑破業
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/19598
+  アニメーション演出: Park Chi Man
+  サブタイトル: すずがカッコよくきめてみた！　だもん！
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2019-07-07'
+  演出: 谷口工作
+  絵コンテ: 小松達彦
+  話数: 65
+  _key: prichan_65
+- lives: []
+  脚本: 涼村千夏
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/19777
+  アニメーション演出: Nam Sung Min
+  サブタイトル: デザインパレット！ おしゃれはおまかせだもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-07-14'
+  演出: 秦義人
+  絵コンテ: 大宙征基
+  話数: 66
+  _key: prichan_66
+- lives: []
+  脚本: 佐藤裕
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/19823
+  アニメーション演出: Na Ki Chual
+  サブタイトル: まりあとすず！ ついにグループ結成！？　だもん！
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2019-07-21'
+  演出: 米田光宏
+  絵コンテ: 坂田純一
+  話数: 67
+  _key: prichan_67
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/19883
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: さよなら、すず まりあ笑顔のお別れ!　だもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-07-28'
+  演出: 谷口工作
+  絵コンテ: 麦野アイス
+  話数: 68
+  _key: prichan_68
+- lives: []
+  脚本: 雑破業
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/20014
+  アニメーション演出: Park Chi Man
+  サブタイトル: 発車オーライ！ ミラクル☆キラッツ一日駅長だもん！
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2019-08-04'
+  演出: 大島克也
+  絵コンテ: 大島克也
+  話数: 69
+  _key: prichan_69
+- lives: []
+  脚本: 中村能子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/20099
+  アニメーション演出: Nam Sung Min
+  サブタイトル: 夏のだいあフェス！ ヒットパレードで熱いんだもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-08-11'
+  演出: 黒瀬大輔
+  絵コンテ: 小松達彦
+  話数: 70
+  _key: prichan_70
+- lives: []
+  脚本: 冨田頼子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/20149
+  アニメーション演出: Na Ki Chual
+  サブタイトル: 歌え　えもちゃん！ なんとかなるなる！だもん
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2019-08-18'
+  演出: 秦義人
+  絵コンテ: 金崎貴臣
+  話数: 71
+  _key: prichan_71
+- lives: []
+  脚本: 佐藤裕
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/20193
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: 海で特訓！ がんばれすずちゃん！だもん
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-08-25'
+  演出: 渡辺健一郎
+  絵コンテ: 渡辺健一郎
+  話数: 72
+  _key: prichan_72
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/20358
+  アニメーション演出: Park Chi Man
+  サブタイトル: さらちゃん悩む… スランプを乗り越えろ！だもん
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2019-09-01'
+  演出: 伊藤浩
+  絵コンテ: 大宙征基
+  話数: 73
+  _key: prichan_73
+- lives: []
+  脚本: 雑破業
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/20359
+  アニメーション演出: Nam Sung Min
+  サブタイトル: みーんなオシャレ！デザインパレットだもん
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-09-08'
+  演出: 米田光宏
+  絵コンテ: 西森章
+  話数: 74
+  _key: prichan_74
+- lives: []
+  脚本: 中村能子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/20436
+  アニメーション演出: Na Ki Chual
+  サブタイトル: いっしょにハピなる！ めが姉ぇさんと私！だもん
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2019-09-15'
+  演出: 谷口工作
+  絵コンテ: 坂田純一
+  話数: 75
+  _key: prichan_75
+- lives: []
+  脚本: 兵頭一歩
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/20495
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: キラにちは！ だいあとだいあが出会った日、だもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-09-22'
+  演出: 伊藤浩
+  絵コンテ: 小松達彦
+  話数: 76
+  _key: prichan_76
+- lives: []
+  脚本: 兵頭一歩
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/20681
+  アニメーション演出: Park Chi Man
+  サブタイトル: ナゾのアイドル ついにデビュー！ だもん！
+  ストーリーボード: Park Chi Man
+  作画監修: 斉藤里枝
+  放送日(TXN): '2019-09-29'
+  演出: 高橋謙仁
+  絵コンテ: 高橋謙仁
+  話数: 77
+  _key: prichan_77
+- lives: []
+  脚本: 涼村千夏
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/20716
+  アニメーション演出: Nam Sung Min
+  サブタイトル: キラ宿大騒動！？ フェニックス仮面あらわる？だもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-10-06'
+  演出: 黒瀬大輔
+  絵コンテ: 誌村宏明
+  話数: 78
+  _key: prichan_78
+- lives: []
+  脚本: 佐藤裕
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/20794
+  アニメーション演出: Na Ki Chual
+  サブタイトル: いきなり開催！？フェニックス杯だもん！
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2019-10-13'
+  演出: 谷口工作
+  絵コンテ: 麦野アイス
+  話数: 79
+  _key: prichan_79
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/20828
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: わくわく！ アンジュさんの仮面舞踏会だもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-10-20'
+  演出: 山田卓
+  絵コンテ: 金崎貴臣
+  話数: 80
+  _key: prichan_80
+- lives: []
+  脚本: 雑破業
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21002
+  アニメーション演出: Park Chi Man
+  サブタイトル: とうとう解散？ おしゃまトリックスだもん！
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2019-10-27'
+  演出: 米田光宏
+  絵コンテ: オグロアキラ
+  話数: 81
+  _key: prichan_81
+- lives: []
+  脚本: 冨田頼子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21073
+  アニメーション演出: Nam Sung Min
+  サブタイトル: 最後のだいあフェス！ カッコいい対決だもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-11-03'
+  演出: 黒瀬大輔
+  絵コンテ: 小松達彦
+  話数: 82
+  _key: prichan_82
+- lives: []
+  脚本: 中村能子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21121
+  アニメーション演出: Na Ki Chual
+  サブタイトル: ふしぎな本屋さんでふしぎ体験だもん！
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2019-11-10'
+  演出: 谷口工作
+  絵コンテ: 誌村宏明
+  話数: 83
+  _key: prichan_83
+- lives: []
+  脚本: 佐藤裕
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21191
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: ロケットハート！　宇宙に届け！　だもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-11-17'
+  演出: 小林浩輔
+  絵コンテ: 菅原静貴
+  話数: 84
+  _key: prichan_84
+- lives: []
+  脚本: 雑破業
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21221
+  アニメーション演出: Park Chi Man
+  サブタイトル: すずちゃんファイト！　かっこいいお兄ちゃんを取り戻せ！　だもん！
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2019-11-24'
+  演出: 大島克也
+  絵コンテ: 大島克也
+  話数: 85
+  _key: prichan_85
+- lives: []
+  脚本: 冨田頼子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21222
+  アニメーション演出: Nam Sung Min
+  サブタイトル: カンペキ！　わたくしのジュエルコーデ獲得計画ですわ！　だもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-12-01'
+  演出: 渡辺健一郎
+  絵コンテ: 渡辺健一郎
+  話数: 86
+  _key: prichan_86
+- lives: []
+  脚本: 中村能子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21548
+  アニメーション演出: Na Ki Chual
+  サブタイトル: あんなちゃんえもちゃん、一つ屋根の下？　だもん！
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2019-12-08'
+  演出: 伊藤浩
+  絵コンテ: 小松達彦
+  話数: 87
+  _key: prichan_87
+- lives: []
+  脚本: 佐藤裕
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21549
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: あんなとえも！仲なおりサバイバル！　だもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-12-15'
+  演出: 米田光宏
+  絵コンテ: 米田光宏
+  話数: 88
+  _key: prichan_88
+- lives: []
+  脚本: 兵頭一歩
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21630
+  アニメーション演出: Park Chi Man
+  サブタイトル: 聖夜はみんなで！　ジュエルかがやくクリスマス！　だもん！
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2019-12-22'
+  演出: 小林浩輔
+  絵コンテ: 誌村宏明
+  話数: 89
+  _key: prichan_89
+- lives: []
+  脚本: 兵頭一歩
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21730
+  アニメーション演出: Nam Sung Min
+  サブタイトル: 大発表！これがダイヤモンドコーデ！　だもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2019-12-29'
+  演出: 熊野千尋
+  絵コンテ: 熊野千尋
+  話数: 90
+  _key: prichan_90
+- lives: []
+  脚本: 雑破業
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21731
+  アニメーション演出: Na Ki Chual
+  サブタイトル: なる店長！みんなの夢が気になるなる！　だもん！
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2020-01-12'
+  演出: 谷口工作
+  絵コンテ: 麦野アイス
+  話数: 91
+  _key: prichan_91
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21795
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: 大冒険！だいあの世界にキラにちは！　だもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2020-01-19'
+  演出: 米田光宏
+  絵コンテ: オグロアキラ
+  話数: 92
+  _key: prichan_92
+- lives: []
+  脚本: 冨田頼子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21796
+  アニメーション演出: Park Chi Man
+  サブタイトル: イメージチェンジ！？だいあがなぞの大変身！　だよん！
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2020-01-26'
+  演出: 黒瀬大輔
+  絵コンテ: 誌村宏明
+  話数: 93
+  _key: prichan_93
+- lives: []
+  脚本: 中村能子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21925
+  アニメーション演出: Nam Sung Min
+  サブタイトル: まりあ大ショック！？　 すずはライバルなんだよん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 島田さとし
+  放送日(TXN): '2020-02-02'
+  演出: 小林浩輔
+  絵コンテ: 小林浩輔
+  話数: 94
+  _key: prichan_94
+- lives: []
+  脚本: 佐藤裕
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/21993
+  アニメーション演出: Na Ki Chual
+  サブタイトル: だいあがおジャマ？　 キラッツの秘密を探るんだよん！
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2020-02-09'
+  演出: 米田光宏
+  絵コンテ: 小松達彦
+  話数: 95
+  _key: prichan_95
+- lives: []
+  脚本: 雑破業
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22050
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: ドキワク！　 もうすぐジュエルコレクション！　だよん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2020-02-16'
+  演出: 伊藤浩
+  絵コンテ: 山本三輪子
+  話数: 96
+  _key: prichan_96
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22111
+  アニメーション演出: Park Chi Man
+  サブタイトル: ついに開幕！　 ジュエルコレクション！　だよん！
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2020-02-23'
+  演出: 大島克也
+  絵コンテ: 大島克也
+  話数: 97
+  _key: prichan_97
+- lives: []
+  脚本: 佐藤裕
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22152
+  アニメーション演出: Nam Sung Min
+  サブタイトル: まだまだ続くよ！　 ジュエルコレクション！！　だよん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2020-03-01'
+  演出: 伊藤浩
+  絵コンテ: 小松達彦
+  話数: 98
+  _key: prichan_98
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22195
+  アニメーション演出: Na Ki Chual
+  サブタイトル: いよいよ決着！　 ジュエルコレクション！！！　だよん！
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2020-03-08'
+  演出: 小林浩輔
+  絵コンテ: 麦野アイス
+  話数: 99
+  _key: prichan_99
+- lives:
+  - prichan_100_memories_for_future
+  脚本: 兵頭一歩
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22259
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: お願い、ダイヤモンドコーデ！　 届け、私たちの思い！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2020-03-15'
+  演出: 谷口工作
+  絵コンテ: 誌村宏明
+  話数: 100
+  _key: prichan_100
+- lives:
+  - prichan_101_diamond_smile
+  脚本: 雑破業
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22311
+  アニメーション演出: Park Chi Man
+  サブタイトル: だいあが守る！　 みんなのプリ☆チャン！　だもん！
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2020-03-22'
+  演出: 米田光宏
+  絵コンテ: 小松達彦
+  話数: 101
+  _key: prichan_101
+- lives:
+  - prichan_102_individual_jewel
+  - prichan_102_memories_for_future
+  脚本: 中村能子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22365
+  アニメーション演出: Nam Sung Min
+  サブタイトル: キラッとつながる！　 それがプリ☆チャン！　だもん！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2020-03-29'
+  演出: 渡辺健一郎
+  絵コンテ: 渡辺健一郎
+  話数: 102
+  _key: prichan_102
+- lives:
+  - prichan_103_miracle_coaster
+  脚本: 兵頭一歩
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22573
+  アニメーション演出: Na Ki Chual
+  サブタイトル: キラッとオープン！プリ☆チャンランドがやってきたッチュ！
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2020-04-05'
+  演出: 小林浩輔
+  絵コンテ: 小松達彦
+  話数: 103
+  _key: prichan_103
+- lives: []
+  脚本: 兵頭一歩
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22574
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: パンパカパーン！メルパン登場だパン！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2020-04-12'
+  演出: 伊藤浩
+  絵コンテ: オグロアキラ
+  話数: 104
+  _key: prichan_104
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22575
+  アニメーション演出: Park Chi Man
+  サブタイトル: どこどこ？プリたまさがしにＧＯＧＯッチュ！
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2020-04-19'
+  演出: 黒瀬大輔
+  絵コンテ: 小松達彦
+  話数: 105
+  _key: prichan_105
+- lives: []
+  脚本: 冨田頼子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22576
+  アニメーション演出: Nam Sung Min
+  サブタイトル: かがやけ！レインボープリンセスカップだッチュ！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2020-04-26'
+  演出: 小林浩輔
+  絵コンテ: 小林浩輔
+  話数: 106
+  _key: prichan_106
+- lives: []
+  脚本: 大場小ゆり
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22699
+  アニメーション演出: Na Ki Chual
+  サブタイトル: キラッＣＨＵ、アイドルになりたいッチュ！
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2020-07-05'
+  演出: 米田光宏
+  絵コンテ: 誌村宏明
+  話数: 107
+  _key: prichan_107
+- lives: []
+  脚本: 雑破業
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22815
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: キラッＣＨＵ、ライブがしたいッチュ！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2020-07-12'
+  演出: 谷口工作
+  絵コンテ: 麦野アイス
+  話数: 108
+  _key: prichan_108
+- lives: []
+  脚本: 佐藤裕
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22816
+  アニメーション演出: Park Chi Man
+  サブタイトル: まるっと解決？ 仲直り大作戦ッチュ！パン！
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2020-07-19'
+  演出: 小林浩輔
+  絵コンテ: 山本三輪子
+  話数: 109
+  _key: prichan_109
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22817
+  アニメーション演出: Nam Sung Min
+  サブタイトル: ひびけ！ メロディープリンセスカップだパン！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2020-07-26'
+  演出: 伊藤浩
+  絵コンテ: 小松達彦
+  話数: 110
+  _key: prichan_110
+- lives: []
+  脚本: 大場小ゆり
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/22818
+  アニメーション演出: Na Ki Chual
+  サブタイトル: メルパン、 アイドルできないパン！
+  ストーリーボード: Na Ki Chual
+  作画監修: 青木康哲
+  放送日(TXN): '2020-08-02'
+  演出: 大島克也
+  絵コンテ: 大島克也
+  話数: 111
+  _key: prichan_111
+- lives: []
+  脚本: 兵頭一歩
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/23862
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: めざせ合格！ マスコット認定試験だッチュ！
+  ストーリーボード: Nam Sung Min
+  作画監修: 青木康哲
+  放送日(TXN): '2020-08-09'
+  演出: 小林浩輔
+  絵コンテ: 小林浩輔
+  話数: 112
+  _key: prichan_112
+- lives: []
+  脚本: 福田裕子
+  episodeOfSeries: prichan
+  あにてれ: https://ch.ani.tv/episodes/23876
+  アニメーション演出: Park Chi Man
+  サブタイトル: パシャリ！笑顔のシャッターチャンスだッチュ！
+  ストーリーボード: Park Chi Man
+  作画監修: 青木康哲
+  放送日(TXN): '2020-08-16'
+  演出: 渡辺健一郎
+  絵コンテ: 渡辺健一郎
+  話数: 113
+  _key: prichan_113
 - lives:
   - pripara_1_make_it
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: アイドル始めちゃいました！
   ストーリーボード: Sung Won Yong
   作画監修: 森友宏樹
-  放送日(TXN): 2014/7/5
+  放送日(TXN): '2014-07-05'
   演出: 徳本善信
   絵コンテ: 森脇真琴
-  脚本: 土屋理敬
   話数: 1
   _key: pripara_1
 - lives:
   - pripara_2_make_it
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 約束やぶっちゃダメぷりっ
   ストーリーボード: Choi Hun Cheol
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/7/12
+  放送日(TXN): '2014-07-12'
   演出: 小林浩輔
   絵コンテ: 森脇真琴
-  脚本: 土屋理敬
   話数: 2
   _key: pripara_2
 - lives:
   - pripara_3_make_it
   - pripara_3_taiyo_no_flare_serbet
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: チーム解散？困るクマ〜！
   ストーリーボード: An Jai Ho
   作画監修: 森友宏樹
-  放送日(TXN): 2014/7/19
+  放送日(TXN): '2014-07-19'
   演出: 関田修
   絵コンテ: 柊陽菜
-  脚本: 福田裕子
   話数: 3
   _key: pripara_3
 - lives:
   - pripara_4_make_it
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: かしこま！元気 For You
   ストーリーボード: Sung Won Yong
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/7/26
+  放送日(TXN): '2014-07-26'
   演出: 小林浩輔
   絵コンテ: 玉川真人
-  脚本: ふでやすかずゆき
   話数: 4
   _key: pripara_4
 - lives:
   - pripara_5_make_it
   - pripara_5_taiyo_no_flare_serbet
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: あたし、そふぃさんと歌いたいワニ！
   ストーリーボード: Sung Won Yong
   作画監修: 森友宏樹
-  放送日(TXN): 2014/8/2
+  放送日(TXN): '2014-08-02'
   演出: 佐々木純人
   絵コンテ: 沖田宮奈
-  脚本: 中村能子
   話数: 5
   _key: pripara_5
 - lives:
   - pripara_6_marble_make_up_a_ha_ha
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 異議あり？、らぁらがウチにやってきたっぷり！
   ストーリーボード: An Jai Ho
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/8/9
+  放送日(TXN): '2014-08-09'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: 土屋理敬
   話数: 6
   _key: pripara_6
 - lives:
   - pripara_7_marble_make_up_a_ha_ha
   - pripara_7_taiyo_no_flare_serbet
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: レッドフラッシュを探して…
   ストーリーボード: Park Chi Man
   作画監修: 森友宏
-  放送日(TXN): 2014/8/16
+  放送日(TXN): '2014-08-16'
   演出: 関田修
   絵コンテ: ワタナベシンイチ
-  脚本: 大場小ゆり
   話数: 7
   _key: pripara_7
 - lives:
   - pripara_8_marble_make_up_a_ha_ha
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: ドキドキ！夏だ！水着だ！、プールでかしこまっ♪
   ストーリーボード: An Jai Ho
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/8/23
+  放送日(TXN): '2014-08-23'
   演出: 小林浩輔
   絵コンテ: 沖田宮奈
-  脚本: 福田裕子
   話数: 8
   _key: pripara_8
 - lives:
   - pripara_9_make_it
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: ときめきアイドル大集合！
   ストーリーボード: Na Ki Chual
   作画監修: 森友宏樹
-  放送日(TXN): 2014/8/30
+  放送日(TXN): '2014-08-30'
   演出: 佐々木純人
   絵コンテ: 柊陽菜
-  脚本: 中村能子
   話数: 9
   _key: pripara_9
 - lives:
   - pripara_10_marble_make_up_a_ha_ha
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 秋色ラブリーライブ
   ストーリーボード: Sung Won Yong
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/9/6
+  放送日(TXN): '2014-09-06'
   演出: 小林浩輔
   絵コンテ: ワタナベシンイチ
-  脚本: ふでやすかずゆき
   話数: 10
   _key: pripara_10
 - lives:
   - pripara_11_taiyo_no_flare_serbet
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: どうする？どうなる!?3人目!!!
   ストーリーボード: Park Chi Man
   作画監修: 森友宏樹
-  放送日(TXN): 2014/9/13
+  放送日(TXN): '2014-09-13'
   演出: 安藤良
   絵コンテ: 沖田宮奈
-  脚本: 大場小ゆり
   話数: 11
   _key: pripara_11
 - lives:
   - pripara_12_pretty_prism_paradise
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: はばたけ、そふぃ！
   ストーリーボード: An Jai Ho
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/9/20
+  放送日(TXN): '2014-09-20'
   演出: 小林浩輔
   絵コンテ: 坂田純一
-  脚本: 福田裕子
   話数: 12
   _key: pripara_12
 - lives:
   - pripara_13_pretty_prism_paradise
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: 空見て笑って♡チーム名発表！
   ストーリーボード: Choi Hun Cheol
   作画監修: 森友宏樹
-  放送日(TXN): 2014/9/27
+  放送日(TXN): '2014-09-27'
   演出: 徳本善信
   絵コンテ: 桜井弘明
-  脚本: 中村能子
   話数: 13
   _key: pripara_13
 - lives:
   - pripara_14_no_d_and_d_code
   - pripara_14_pretty_prism_paradise
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: ライバル登場！イゴ、よろしく!!
   ストーリーボード: Sung Won Yong
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/10/4
+  放送日(TXN): '2014-10-04'
   演出: 小林浩輔
   絵コンテ: ワタナベシンイチ
-  脚本: ふでやすかずゆき
   話数: 14
   _key: pripara_14
 - lives:
   - pripara_15_no_d_and_d_code
   - pripara_15_pretty_prism_paradise
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: 一触即発？シオンVSみれぃっぷりっ！
   ストーリーボード: Park Chi Man
   作画監修: 森友宏樹
-  放送日(TXN): 2014/10/11
+  放送日(TXN): '2014-10-11'
   演出: 川村ひろし
   絵コンテ: 山本三輪子
-  脚本: 大場小ゆり
   話数: 15
   _key: pripara_15
 - lives:
   - pripara_16_pretty_prism_paradise
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: 特ダネ！らぁらのヒミツばれちゃった!?
   ストーリーボード: An Jai Ho
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/10/18
+  放送日(TXN): '2014-10-18'
   演出: 小林浩輔
   絵コンテ: 川口敬一郎
-  脚本: 福田裕子
   話数: 16
   _key: pripara_16
 - lives:
   - pripara_17_pretty_prism_paradise
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: 恐怖のハロウィン！ジャック・OH!蘭たん!?
   ストーリーボード: Na Ki Chual
   作画監修: 森友宏樹
-  放送日(TXN): 2014/10/25
+  放送日(TXN): '2014-10-25'
   演出: 佐々木純人
   絵コンテ: ワタナベシンイチ
-  脚本: ふでやすかずゆき
   話数: 17
   _key: pripara_17
 - lives:
   - pripara_18_no_d_and_d_code
   - pripara_18_pretty_prism_paradise
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: レオナ、全力ダッシュなの！
   ストーリーボード: Sung Won Yong
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/11/1
+  放送日(TXN): '2014-11-01'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: 中村能子
   話数: 18
   _key: pripara_18
 - lives:
   - pripara_19_pretty_prism_paradise
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: みれぃとクマ、運命の出会いぷりクマ！
   ストーリーボード: Park Chi Man
   作画監修: 森友宏樹
-  放送日(TXN): 2014/11/8
+  放送日(TXN): '2014-11-08'
   演出: 安藤良
   絵コンテ: 坂田純一
-  脚本: 大場小ゆり
   話数: 19
   _key: pripara_19
 - lives:
   - pripara_20_no_d_and_d_code
   - pripara_20_pretty_prism_paradise
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: パスタVS忍者！
   ストーリーボード: An Jai Ho
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/11/15
+  放送日(TXN): '2014-11-15'
   演出: 小林浩輔
   絵コンテ: 山本三輪子
-  脚本: 土屋理敬
   話数: 20
   _key: pripara_20
 - lives:
   - pripara_21_no_d_and_d_code
   - pripara_21_pretty_prism_paradise
   - pripara_21_taiyo_no_flare_serbet
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: 解散!?そふぃ様親衛隊
   ストーリーボード: Choi Hun Cheol
   作画監修: 森友宏樹
-  放送日(TXN): 2014/11/22
+  放送日(TXN): '2014-11-22'
   演出: 徳本善信
   絵コンテ: 沖田宮奈
-  脚本: 福田裕子
   話数: 21
   _key: pripara_21
 - lives:
   - pripara_22_change_my_world
   - pripara_22_happy_pa_lucky
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 学園祭でライブクマ〜！
   ストーリーボード: Sung Won Yong
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/11/29
+  放送日(TXN): '2014-11-29'
   演出: 小林浩輔
   絵コンテ: ワタナベシンイチ
-  脚本: ふでやすかずゆき
   話数: 22
   _key: pripara_22
 - lives:
   - pripara_23_change_my_world
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: プリパラ最後の日でっすわ！
   ストーリーボード: Park Chi Man
   作画監修: 森友宏樹
-  放送日(TXN): 2014/12/6
+  放送日(TXN): '2014-12-06'
   演出: 徳本善信
   絵コンテ: 川口敬一郎
-  脚本: 中村能子
   話数: 23
   _key: pripara_23
 - lives:
   - pripara_24_happy_pa_lucky
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: さよなら、プリパラ
   ストーリーボード: An Jai Ho
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/12/13
+  放送日(TXN): '2014-12-13'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: 大場小ゆり
   話数: 24
   _key: pripara_24
 - lives:
   - pripara_25_realize
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: クリスマスプレゼントフォーユー！
   ストーリーボード: Na Ki Chual
   作画監修: 森友宏樹
-  放送日(TXN): 2014/12/20
+  放送日(TXN): '2014-12-20'
   演出: 川村ひろし
   絵コンテ: 坂田純一
-  脚本: 土屋理敬
   話数: 25
   _key: pripara_25
 - lives:
   - pripara_26_realize
   - pripara_26_zero_week_old
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: いよいよあの子がデビューでちゅ
   ストーリーボード: Sung Won Yong
   作画監修: 鈴木理彩
-  放送日(TXN): 2014/12/27
+  放送日(TXN): '2014-12-27'
   演出: 小林浩輔
   絵コンテ: 山本三輪子
-  脚本: 福田裕子
   話数: 26
   _key: pripara_26
 - lives:
   - pripara_27_happy_pa_lucky
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: あけおめでかしこま！
   ストーリーボード: Park Chi Man
   作画監修: 森友宏樹
-  放送日(TXN): 2015/1/10
+  放送日(TXN): '2015-01-10'
   演出: 安藤良
   絵コンテ: ワタナベシンイチ
-  脚本: ふでやすかずゆき
   話数: 27
   _key: pripara_27
 - lives:
   - pripara_28_change_my_world
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: プリパラ囲碁パンダでございます
   ストーリーボード: Nam Sung Min
   作画監修: 鈴木理彩
-  放送日(TXN): 2015/1/17
+  放送日(TXN): '2015-01-17'
   演出: 小林浩輔
   絵コンテ: 麦野アイス
-  脚本: 中村能子
   話数: 28
   _key: pripara_28
 - lives:
   - pripara_29_happy_pa_lucky
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: EZ DO グロササイズ
   ストーリーボード: Choi Hun Cheol
   作画監修: 森友宏樹
-  放送日(TXN): 2015/1/24
+  放送日(TXN): '2015-01-24'
   演出: 徳本善信
   絵コンテ: 政木伸一
-  脚本: 福田裕子
   話数: 29
   _key: pripara_29
 - lives:
   - pripara_30_change_my_world
   - pripara_30_happy_pa_lucky
   - pripara_30_zero_week_old
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: ドキドキ！パラダイスコーデは誰のもの!?
   ストーリーボード: Nam Sung Min
   作画監修: 鈴木理彩
-  放送日(TXN): 2015/1/31
+  放送日(TXN): '2015-01-31'
   演出: 小林浩輔
   絵コンテ: 金崎貴臣
-  脚本: 土屋理敬
   話数: 30
   _key: pripara_30
 - lives:
   - pripara_31_kimi_100_percent_jinse
   - pripara_31_zero_week_old
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: スマイル！そらみ♡スマイル
   ストーリーボード: Park Chi Man
   作画監修: 森友宏樹
-  放送日(TXN): 2015/2/7
+  放送日(TXN): '2015-02-07'
   演出: 川村ひろし
   絵コンテ: 山本三輪子
-  脚本: 大場小ゆり
   話数: 31
   _key: pripara_31
 - lives:
   - pripara_32_happy_pa_lucky
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: みれぃ、ぷりやめるってよ
   ストーリーボード: An Jai Ho
   作画監修: 鈴木理彩
-  放送日(TXN): 2015/2/14
+  放送日(TXN): '2015-02-14'
   演出: 小林浩輔
   絵コンテ: ワタナベシンイチ
-  脚本: ふでやすかずゆき
   話数: 32
   _key: pripara_32
 - lives:
@@ -1718,370 +3648,368 @@
   - pripara_33_marble_make_up_a_ha_ha
   - pripara_33_no_d_and_d_code
   - pripara_33_pretty_prism_paradise
-  - pripara_33_zero_week_old
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: らぁらのこと、おしえて
   ストーリーボード: Jeon Byung Cheol
   作画監修: 五十内裕輔
-  放送日(TXN): 2015/2/21
+  放送日(TXN): '2015-02-21'
   演出: 徳本善信
   絵コンテ: 森脇真琴
-  脚本: 土屋理敬
   話数: 33
   _key: pripara_33
 - lives:
   - pripara_34_zero_week_old
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: ファルルのトモダチ
   ストーリーボード: Na Ki Chual
   作画監修: 森友宏樹
-  放送日(TXN): 2015/2/28
+  放送日(TXN): '2015-02-28'
   演出: 小林浩輔
   絵コンテ: 誌村宏明
-  脚本: 中村能子
   話数: 34
   _key: pripara_34
 - lives:
   - pripara_35_love_friend_style
   - pripara_35_zero_week_old
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: 最後のステージバトル！
   ストーリーボード: Jeon Byung Cheol
   作画監修: 鈴木理彩
-  放送日(TXN): 2015/3/7
+  放送日(TXN): '2015-03-07'
   演出: 佐々木純人
   絵コンテ: ワタナベシンイチ
-  脚本: 福田裕子
   話数: 35
   _key: pripara_35
 - lives:
   - pripara_36_love_friend_style
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: ファルル、目覚めるでちゅーっ!!
   ストーリーボード: Kim Jin Gu
   作画監修: 森友宏樹
-  放送日(TXN): 2015/3/14
+  放送日(TXN): '2015-03-14'
   演出: 小林浩輔
   絵コンテ: 大久保政雄
-  脚本: ふでやすかずゆき
   話数: 36
   _key: pripara_36
 - lives:
   - pripara_37_make_it
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: 奇跡よ起これ！ミラクルライブ
   ストーリーボード: Park Chi Man
   作画監修: 鈴木理彩
-  放送日(TXN): 2015/3/21
+  放送日(TXN): '2015-03-21'
   演出: 徳本善信
   絵コンテ: 森脇真琴
-  脚本: 大場小ゆり
   話数: 37
   _key: pripara_37
 - lives:
   - pripara_38_love_friend_style
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: み〜んなトモダチ、かしこま！
   ストーリーボード: Choi Hun Cheol
   作画監修: 森友宏樹
-  放送日(TXN): 2015/3/28
+  放送日(TXN): '2015-03-28'
   演出: 小林浩輔
   絵コンテ: 山本三輪子
-  脚本: 中村能子
   話数: 38
   _key: pripara_38
 - lives:
   - pripara_39_dream_parade
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: またまたアイドル始めちゃいました!?
   ストーリーボード: Nam Sung Min
   作画監修: 鈴木理彩
-  放送日(TXN): 2015/4/4
+  放送日(TXN): '2015-04-04'
   演出: 川村ひろし
   絵コンテ: 政木伸一
-  脚本: 土屋理敬
   話数: 39
   _key: pripara_39
 - lives:
   - pripara_40_debi_en_reversible_ring
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: 天使と悪魔ねこぉ〜ん
   ストーリーボード: Park Chi Man
   作画監修: 森友宏樹
-  放送日(TXN): 2015/4/11
+  放送日(TXN): '2015-04-11'
   演出: 小林浩輔
   絵コンテ: 森脇真琴
-  脚本: ふでやすかずゆき
   話数: 40
   _key: pripara_40
 - lives:
   - pripara_41_dream_parade
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: のろわれたソロライブぷり！
   ストーリーボード: Park Chi Man
   作画監修: 鈴木理彩
-  放送日(TXN): 2015/4/18
+  放送日(TXN): '2015-04-18'
   演出: 佐々木純人
   絵コンテ: ワタナベシンイチ
-  脚本: 福田裕子
   話数: 41
   _key: pripara_41
 - lives:
   - pripara_42_taiyo_no_flare_serbet_sakura_shower_ver
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: プラジルから来た男
   ストーリーボード: Park Chi Man
   作画監修: 森友宏樹
-  放送日(TXN): 2015/4/26
+  放送日(TXN): '2015-04-26'
   演出: 小林浩輔
   絵コンテ: 麦野アイス
-  脚本: 大場小ゆり
   話数: 42
   _key: pripara_42
 - lives:
   - pripara_43_dream_parade
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: ドリームシアター一番乗り！クマ！
   ストーリーボード: Jeon Byung Cheol
   作画監修: 鈴木理彩
-  放送日(TXN): 2015/5/2
+  放送日(TXN): '2015-05-02'
   演出: 橋口洋介
   絵コンテ: 森脇真琴
-  脚本: 中村能子
   話数: 43
   _key: pripara_43
 - lives:
   - pripara_44_no_d_and_d_code
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: イゴ、さらばウサ！？
   ストーリーボード: Jeon Byung Cheol
   作画監修: 本多恵美
-  放送日(TXN): 2015/5/9
+  放送日(TXN): '2015-05-09'
   演出: 菱田正和
   絵コンテ: 菱田正和
-  脚本: 土屋理敬
   話数: 44
   _key: pripara_44
 - lives:
   - pripara_45_debi_en_reversible_ring
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: となりのクラスの悪魔なの
   ストーリーボード: Jeon Byung Cheol
   作画監修: 鈴木理彩
-  放送日(TXN): 2015/5/16
+  放送日(TXN): '2015-05-16'
   演出: 小林浩輔
   絵コンテ: ワタナベシンイチ
-  脚本: ふでやすかずゆき
   話数: 45
   _key: pripara_45
 - lives:
   - pripara_46_debi_en_reversible_ring
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: でび＆えん保育園！ケロ？
   ストーリーボード: Na Ki Chual
   作画監修: 鈴木理彩
-  放送日(TXN): 2015/5/23
+  放送日(TXN): '2015-05-23'
   演出: 川村ひろし
   絵コンテ: 政木伸一
-  脚本: 中村能子
   話数: 46
   _key: pripara_46
 - lives:
   - pripara_47_dream_parade
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: あろまにはナイショなの♪
   ストーリーボード: Jeon Byung Cheol
   作画監修: 本多恵美
-  放送日(TXN): 2015/5/30
+  放送日(TXN): '2015-05-30'
   演出: 小林浩輔
   絵コンテ: 森脇真琴
-  脚本: 福田裕子
   話数: 47
   _key: pripara_47
 - lives:
   - pripara_48_lucky_surprise_birthday
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: 6月6日、絶交アイドル
   ストーリーボード: Jeon Byung Cheol
   作画監修: 本多恵美
-  放送日(TXN): 2015/6/6
+  放送日(TXN): '2015-06-06'
   演出: 橋口洋介
   絵コンテ: 佐藤まさふみ
-  脚本: 大場小ゆり
   話数: 48
   _key: pripara_48
 - lives:
   - pripara_49_no_d_and_d_code
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: いもうとよ
   ストーリーボード: An Jai Ho
   作画監修: 本多恵美
-  放送日(TXN): 2015/6/13
+  放送日(TXN): '2015-06-13'
   演出: 小林浩輔
   絵コンテ: ワタナベシンイチ
-  脚本: ふでやすかずゆき
   話数: 49
   _key: pripara_49
 - lives:
   - pripara_50_dream_parade
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: パルプスの少女ふわり
   ストーリーボード: Na Ki Chual
   作画監修: 柴田健児
-  放送日(TXN): 2015/6/20
+  放送日(TXN): '2015-06-20'
   演出: 小林浩輔
-  脚本: 福田裕子
   話数: 50
   _key: pripara_50
 - lives:
   - pripara_51_change_my_world
-  - pripara_51_dream_parade
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: プリンス様と不幸せの青い鳥
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2015/6/27
+  放送日(TXN): '2015-06-27'
   演出: 川村ひろし
   絵コンテ: 柊陽菜
-  脚本: 中村能子
   話数: 51
   _key: pripara_51
 - lives:
   - pripara_52_konouta_tomareihi
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: ふわり舞う！初ライブトリ！
   ストーリーボード: Park Chi Man
   作画監修: 柴田健児
-  放送日(TXN): 2015/7/4
+  放送日(TXN): '2015-07-04'
   演出: 篠原啓輔
   絵コンテ: ワタナベシンイチ
-  脚本: 大場小ゆり
   話数: 52
   _key: pripara_52
 - lives:
   - pripara_53_change_my_world
   - pripara_53_dream_parade
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: み〜んなプリパラ禁止命令
   ストーリーボード: An Jai Ho
   作画監修: 本多恵美
-  放送日(TXN): 2015/7/11
+  放送日(TXN): '2015-07-11'
   演出: 小林浩輔
   絵コンテ: 佐藤まさふみ
-  脚本: ふでやすかずゆき
   話数: 53
   _key: pripara_53
 - lives:
   - pripara_54_debi_en_reversible_ring
+  脚本: 江夏由結
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: あくまのミュージアムクマ！
   ストーリーボード: Choi Hun Cheol
   作画監修: 柴田健児
-  放送日(TXN): 2015/7/18
+  放送日(TXN): '2015-07-18'
   演出: 菱田正和
   絵コンテ: 菱田正和
-  脚本: 江夏由結
   話数: 54
   _key: pripara_54
 - lives:
   - pripara_55_konouta_tomareihi
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: プリンスとヤギとデートと私
   ストーリーボード: Jeon Byung Cheol
   作画監修: 諏訪壮大
-  放送日(TXN): 2015/7/25
+  放送日(TXN): '2015-07-25'
   演出: 小林浩輔
   絵コンテ: 藤本義孝
-  脚本: 土屋理敬
   話数: 55
   _key: pripara_55
 - lives:
   - pripara_56_tondemo_summer_adventure
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: 走れ！サマドリグランプリ！
   ストーリーボード: Park Chi Man
   作画監修: 柴田健児
-  放送日(TXN): 2015/8/1
+  放送日(TXN): '2015-08-01'
   演出: 黒瀬大輔
   絵コンテ: 森脇真琴
-  脚本: 土屋理敬
   話数: 56
   _key: pripara_56
 - lives:
   - pripara_57_tondemo_summer_adventure
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: ジーニアスって何パンダ？
   ストーリーボード: An Jai Ho
   作画監修: 本多恵美
-  放送日(TXN): 2015/8/8
+  放送日(TXN): '2015-08-08'
   演出: 小林浩輔
   絵コンテ: 山本三輪子
-  脚本: 中村能子
   話数: 57
   _key: pripara_57
 - lives:
   - pripara_58_love_week_old
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: かえってきたファルルでちゅ
   ストーリーボード: Na Ki Chual
   作画監修: 柴田健児
-  放送日(TXN): 2015/8/15
+  放送日(TXN): '2015-08-15'
   演出: 川村ひろし
   絵コンテ: ワタナベシンイチ
-  脚本: 福田裕子
   話数: 58
   _key: pripara_58
 - lives:
   - pripara_59_dream_parade
   - pripara_59_konouta_tomareihi
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: はれときどきガァルル
   ストーリーボード: Jeon Byung Cheol
   作画監修: 本多恵美
-  放送日(TXN): 2015/8/22
+  放送日(TXN): '2015-08-22'
   演出: 小林浩輔
   絵コンテ: 麦野アイス
-  脚本: 金杉弘子
   話数: 59
   _key: pripara_59
 - lives:
   - pripara_60_change_my_world
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: 夏だ！プールでラブMAX！
   ストーリーボード: Park Chi Man
   作画監修: 柴田健児
-  放送日(TXN): 2015/8/29
+  放送日(TXN): '2015-08-29'
   演出: 伊藤史夫
   絵コンテ: 政木伸一
-  脚本: ふでやすかずゆき
   話数: 60
   _key: pripara_60
 - lives:
@@ -2091,362 +4019,362 @@
   - pripara_61_marble_make_up_a_ha_ha
   - pripara_61_pretty_prism_paradise
   - pripara_61_taiyo_no_flare_serbet
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: クールスキャンダル☆恐縮です
   ストーリーボード: An Jai Ho
   作画監修: 諏訪壮大
-  放送日(TXN): 2015/9/5
+  放送日(TXN): '2015-09-5'
   演出: 小林浩輔
   絵コンテ: 佐藤まさふみ
-  脚本: 大場小ゆり
   話数: 61
   _key: pripara_61
 - lives:
   - pripara_62_zettai_seimei_final_show_jo
+  脚本: 江夏由結
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: シオンVSひびき
   ストーリーボード: Choi Hun Cheol
   作画監修: 柴田健児
-  放送日(TXN): 2015/9/12
+  放送日(TXN): '2015-09-12'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: 江夏由結
   話数: 62
   _key: pripara_62
 - lives:
   - pripara_63_make_it
   - pripara_63_realize
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Sung Min
   サブタイトル: トモチケは世界を救う
   ストーリーボード: Jeon Byung Cheol
   作画監修: 柴田健児
-  放送日(TXN): 2015/9/19
+  放送日(TXN): '2015-09-19'
   演出: 菱田正和
   絵コンテ: 菱田正和
-  脚本: 福田裕子
   話数: 63
   _key: pripara_63
 - lives:
   - pripara_64_panic_labyrinth
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: ハムとあじみ
   ストーリーボード: Park Chi Man
   作画監修: 柴田健児
-  放送日(TXN): 2015/9/26
+  放送日(TXN): '2015-09-26'
   演出: 小林浩輔
   絵コンテ: こでらかつゆき
-  脚本: ふでやすかずゆき
   話数: 64
   _key: pripara_64
 - lives:
   - pripara_65_panic_labyrinth
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: ダ・ヴィンチ・コーデ
   ストーリーボード: An Jai Ho
   作画監修: 柴田健児
-  放送日(TXN): 2015/10/5
+  放送日(TXN): '2015-10-05'
   演出: 橋口洋介
   絵コンテ: 坂田純一
-  脚本: 金杉弘子
   話数: 65
   _key: pripara_65
 - lives:
   - pripara_66_omu_omelet
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: 秋のテラコズミックグランプリ！
   ストーリーボード: Na Ki Chual
   作画監修: 柴田健児
-  放送日(TXN): 2015/10/12
+  放送日(TXN): '2015-10-12'
   演出: 小林浩輔
   絵コンテ: 政木伸一
-  脚本: 中村能子
   話数: 66
   _key: pripara_66
 - lives:
   - pripara_67_omu_omelet
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: めがジーニアスって何パンダ？
   ストーリーボード: Jeon Byung Cheol
   作画監修: 川島尚
-  放送日(TXN): 2015/10/19
+  放送日(TXN): '2015-10-19'
   演出: 黒瀬大輔
   絵コンテ: 麦野アイス
-  脚本: 土屋理敬
   話数: 67
   _key: pripara_67
 - lives:
   - pripara_68_marble_make_up_a_ha_ha
   - pripara_68_pretty_prism_paradise
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: ほら〜！ハッピーハロウィンにゃ
   ストーリーボード: Park Chi Man
   作画監修: 柴田健児
-  放送日(TXN): 2015/10/26
+  放送日(TXN): '2015-10-26'
   演出: 小林浩輔
   絵コンテ: こでらかつゆき
-  脚本: 大場小ゆり
   話数: 68
   _key: pripara_68
 - lives:
   - pripara_69_dream_parade
   - pripara_69_papipupe_police
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: あぶないプリパラポリス最前線にほえろ
   ストーリーボード: An Jai Ho
   作画監修: 斉藤里枝
-  放送日(TXN): 2015/11/2
+  放送日(TXN): '2015-11-02'
   演出: 渡辺健一郎
   絵コンテ: 渡辺健一郎
-  脚本: ふでやすかずゆき
   話数: 69
   _key: pripara_69
 - lives:
   - pripara_70_love_week_old
+  脚本: 江夏由結
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: プリンセス・ファルル
   ストーリーボード: Choi Hun Cheol
   作画監修: 柴田健児
-  放送日(TXN): 2015/11/9
+  放送日(TXN): '2015-11-09'
   演出: 小林浩輔
   絵コンテ: 佐藤まさふみ
-  脚本: 江夏由結
   話数: 70
   _key: pripara_70
 - lives:
   - pripara_71_lucky_surprise_birthday
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: 誕生日の約束、かしこまっ！
   ストーリーボード: Jeon Byung Cheol
   作画監修: 斉藤里枝
-  放送日(TXN): 2015/11/16
+  放送日(TXN): '2015-11-16'
   演出: 榎本守
   絵コンテ: 柊陽菜
-  脚本: 金杉弘子
   話数: 71
   _key: pripara_71
 - lives:
   - pripara_72_panic_labyrinth
   - pripara_72_papipupe_police
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: かしこまミステリー 、プリパラ連続ダ・ヴィンチ事件
   ストーリーボード: Park Chi Man
   作画監修: 柴田健児
-  放送日(TXN): 2015/11/23
+  放送日(TXN): '2015-11-23'
   演出: 小林浩輔
   絵コンテ: 坂田純一
-  脚本: 福田裕子
   話数: 72
   _key: pripara_72
 - lives:
   - pripara_73_jun_amore_ai
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: 彼女がデビューする日
   ストーリーボード: An Jai Ho
   作画監修: 本多恵美
-  放送日(TXN): 2015/11/30
+  放送日(TXN): '2015-11-30'
   演出: 黒瀬大輔
   絵コンテ: 森脇真琴
-  脚本: 中村能子
   話数: 73
   _key: pripara_73
 - lives:
   - pripara_74_jun_amore_ai
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: 紫京院ひびきの華麗なる日常
   ストーリーボード: Na Ki Chual
   作画監修: 本多恵美
-  放送日(TXN): 2015/12/7
+  放送日(TXN): '2015-12-07'
   演出: 小林浩輔
   絵コンテ: 誌村宏明
-  脚本: 土屋理敬
   話数: 74
   _key: pripara_74
 - lives:
   - pripara_75_love_week_old
+  脚本: 江夏由結
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: イゴーイング・マイウェイ
   ストーリーボード: Jeon Byung Cheol
   作画監修: 柴田健児
-  放送日(TXN): 2015/12/14
+  放送日(TXN): '2015-12-14'
   演出: 野木森達哉
   絵コンテ: こでらかつゆき
-  脚本: 江夏由結
   話数: 75
   _key: pripara_75
 - lives:
   - pripara_76_debi_en_reversible_ring
   - pripara_76_realize
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: ハッピーバイバイXマスなの
   ストーリーボード: Park Chi Man
   作画監修: 本多恵美
-  放送日(TXN): 2015/12/21
+  放送日(TXN): '2015-12-21'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: 大場小ゆり
   話数: 76
   _key: pripara_76
 - lives:
   - pripara_77_what_a_wonder_pri_world
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: 対決！ウィンターグランプリ
   ストーリーボード: An Jai Ho
   作画監修: 本多恵美
-  放送日(TXN): 2016/1/4
+  放送日(TXN): '2016-01-04'
   演出: 黒瀬大輔
   絵コンテ: みさわしん
-  脚本: 福田裕子
   話数: 77
   _key: pripara_77
 - lives:
   - pripara_78_what_a_wonder_pri_world
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: レッツ・ゴー！セレパラ!!
   ストーリーボード: Na Ki Chual
   作画監修: 本多恵美
-  放送日(TXN): 2016/1/11
+  放送日(TXN): '2016-01-11'
   演出: 小林浩輔
   絵コンテ: 坂田純一
-  脚本: 金杉弘子
   話数: 78
   _key: pripara_78
 - lives:
   - pripara_79_taiyo_no_flare_serbet
   - pripara_79_virtual_idol
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: アイドル終了ぷり
   ストーリーボード: Jeon Byung Cheol
   作画監修: 本多恵美
-  放送日(TXN): 2016/1/18
+  放送日(TXN): '2016-01-18'
   演出: 小林浩輔
   絵コンテ: 政木伸一
-  脚本: 土屋理敬
   話数: 79
   _key: pripara_79
 - lives:
   - pripara_80_love_week_old
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: ポップ・ステップ・ガァルル
   ストーリーボード: Park Chi Man
   作画監修: "-"
-  放送日(TXN): 2016/1/25
+  放送日(TXN): '2016-01-25'
   演出: 小林浩輔
   絵コンテ: みさわしん
-  脚本: 大場小ゆり
   話数: 80
   _key: pripara_80
 - lives:
   - pripara_81_happy_pa_lucky
   - pripara_81_kimi_100_percent_jinse
   - pripara_81_love_week_old
+  脚本: 江夏由結
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: 地下アイドル始めました
   ストーリーボード: An Jai Ho
   作画監修: 本多恵美
-  放送日(TXN): 2016/2/1
+  放送日(TXN): '2016-02-01'
   演出: 渡辺健一郎
   絵コンテ: 渡辺健一郎
-  脚本: 江夏由結
   話数: 81
   _key: pripara_81
 - lives:
   - pripara_82_debi_en_reversible_ring
   - pripara_82_dream_parade
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: ガァルマゲドンのデビタインデー
   ストーリーボード: Choi Hun Cheol
   作画監修: "-"
-  放送日(TXN): 2016/2/8
+  放送日(TXN): '2016-02-08'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: ふでやすかずゆき
   話数: 82
   _key: pripara_82
 - lives:
   - pripara_83_love_week_old
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: ペルサイユのくるくるちゃんダヴィンチ！
   ストーリーボード: Jeon Byung Cheol
   作画監修: 本多恵美
-  放送日(TXN): 2016/2/15
+  放送日(TXN): '2016-02-15'
   演出: 野木森達哉
   絵コンテ: 稲垣隆行
-  脚本: 金杉弘子
   話数: 83
   _key: pripara_83
 - lives:
   - pripara_84_pritto_perfect
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: ポップ・ステップ・ぷりぷりぷり！
   ストーリーボード: Park Chi Man
   作画監修: 本多恵美
-  放送日(TXN): 2016/2/22
+  放送日(TXN): '2016-02-22'
   演出: 小林浩輔
   絵コンテ: 坂田純一
-  脚本: 福田裕子
   話数: 84
   _key: pripara_84
 - lives:
   - pripara_85_twin_mirror_compact
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: 逆襲のセレブリティ4
   ストーリーボード: An Jai Ho
   作画監修: 本多恵美
-  放送日(TXN): 2016/2/29
+  放送日(TXN): '2016-02-29'
   演出: 黒瀬大輔
   絵コンテ: 柊陽菜
-  脚本: 大場小ゆり
   話数: 85
   _key: pripara_85
 - lives:
   - pripara_86_around_the_pripara_land
+  脚本: 江夏由結
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: つかめ、春のグランプリ！
   ストーリーボード: Choi Hun Cheol
   作画監修: 本多恵美
-  放送日(TXN): 2016/3/7
+  放送日(TXN): '2016-03-07'
   演出: 小林浩輔
   絵コンテ: 菱田正和
-  脚本: 江夏由結
   話数: 86
   _key: pripara_86
 - lives:
   - pripara_87_love_friend_style
+  脚本: ふでやすかすゆき
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: 語尾の果て
   ストーリーボード: Jeon Byung Cheol
   作画監修: 本多恵美
-  放送日(TXN): 2016/3/14
+  放送日(TXN): '2016-03-14'
   演出: 渡辺健一郎
   絵コンテ: 渡辺健一郎
-  脚本: ふでやすかすゆき
   話数: 87
   _key: pripara_87
 - lives:
@@ -2455,29 +4383,29 @@
   - pripara_88_omu_omelet
   - pripara_88_tondemo_summer_adventure
   - pripara_88_what_a_wonder_pri_world
+  脚本: 大島のぞむ
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: キセキの鐘をならせ！
   ストーリーボード: Na Ki Chual
   作画監修: 本多恵美
-  放送日(TXN): 2016/3/21
+  放送日(TXN): '2016-03-21'
   演出: 小林浩輔
   絵コンテ: 坂田純一
-  脚本: 大島のぞむ
   話数: 88
   _key: pripara_88
 - lives:
   - pripara_89_konouta_tomareihi
   - pripara_89_triangle_star
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: み〜んなトモダチ！み〜んなアイドル！
   ストーリーボード: An Jai Ho
   作画監修: 本多恵美
-  放送日(TXN): 2016/3/28
+  放送日(TXN): '2016-03-28'
   演出: 小林浩輔
   絵コンテ: 金崎貴臣
-  脚本: 金杉弘子
   話数: 89
   _key: pripara_89
 - lives:
@@ -2485,228 +4413,228 @@
   - pripara_90_triangle_star
   - pripara_90_twin_mirror_compact
   - pripara_90_zettai_seimei_final_show_jo
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Choi Hun Cheol
   サブタイトル: 神アイドル始めちゃいました!?
   ストーリーボード: Na Ki Chual
   作画監修: 本多恵美
-  放送日(TXN): 2016/4/5
+  放送日(TXN): '2016-04-05'
   演出: 小林浩輔
   絵コンテ: 誌村宏明
-  脚本: 土屋理敬
   話数: 90
   _key: pripara_90
 - lives:
   - pripara_91_triangle_star
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: ママアイドル始めちゃいました!?
   ストーリーボード: Nam Sung Min
   作画監修: 袖山麻美
-  放送日(TXN): 2016/4/12
+  放送日(TXN): '2016-04-12'
   演出: 黒瀬大輔
   絵コンテ: 稲垣隆行
-  脚本: 土屋理敬
   話数: 91
   _key: pripara_91
 - lives:
   - pripara_92_charisma_to_girl_yeah
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: ちょう絶クール蝶（バタフライ）
   ストーリーボード: Park Chi Man
   作画監修: 柚山麻美
-  放送日(TXN): 2016/4/19
+  放送日(TXN): '2016-04-19'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: ふでやすかずゆき
   話数: 92
   _key: pripara_92
 - lives:
   - pripara_93_charisma_to_girl_yeah
   - pripara_93_triangle_star
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: ジュルルの大冒険
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/4/26
+  放送日(TXN): '2016-04-26'
   演出: 野木森達哉
   絵コンテ: 金崎貴臣
-  脚本: 大場小ゆり
   話数: 93
   _key: pripara_93
 - lives:
   - pripara_94_charisma_to_girl_yeah
+  脚本: 江夏由結
   episodeOfSeries: pripara
   アニメーション演出: Choi Hun Cheol
   サブタイトル: カモンカモン・かのん！
   ストーリーボード: Na Ki Chual
   作画監修: 柚山麻美
-  放送日(TXN): 2016/5/3
+  放送日(TXN): '2016-05-03'
   演出: 小林浩輔
   絵コンテ: 坂田純一
-  脚本: 江夏由結
   話数: 94
   _key: pripara_94
 - lives:
   - pripara_95_triangle_star
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: かんぺきママみれぃ！
   ストーリーボード: Park Chi Man
   作画監修: 柚山麻美
-  放送日(TXN): 2016/5/10
+  放送日(TXN): '2016-05-10'
   演出: 渡辺健一郎
   絵コンテ: 渡辺健一郎
-  脚本: 福田裕子
   話数: 95
   _key: pripara_95
 - lives:
   - pripara_96_debi_en_reversible_ring
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: アロマットカードでモーたいへん！
   ストーリーボード: Nam Sung Min
   作画監修: 柚山麻美
-  放送日(TXN): 2016/5/17
+  放送日(TXN): '2016-05-17'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: 中村能子
   話数: 96
   _key: pripara_96
 - lives:
   - pripara_97_taiyo_no_flare_serbet_sakura_shower_ver
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: スーパーミラクルうめぇピーチ
   ストーリーボード: Nam Sung Min
   作画監修: 柚山麻美
-  放送日(TXN): 2016/5/24
+  放送日(TXN): '2016-05-24'
   演出: 黒瀬大輔
   絵コンテ: 佐藤まさふみ
-  脚本: 金杉弘子
   話数: 97
   _key: pripara_97
 - lives:
   - pripara_98_charisma_to_girl_yeah
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: ひとり三役は大変なのん！
   ストーリーボード: Na Ki Chual
   作画監修: 柚山麻美
-  放送日(TXN): 2016/5/31
+  放送日(TXN): '2016-05-31'
   演出: 小林浩輔
   絵コンテ: 誌村宏明
-  脚本: ふでやすかずゆき
   話数: 98
   _key: pripara_98
 - lives:
   - pripara_99_run_for_jumping
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 青春ジャンピンスナッピン！
   ストーリーボード: Nam Sung Min
   作画監修: 柚山麻美
-  放送日(TXN): 2016/6/7
+  放送日(TXN): '2016-06-07'
   演出: 野木森達哉
   絵コンテ: 米田光宏
-  脚本: 大場小ゆり
   話数: 99
   _key: pripara_99
 - lives:
   - pripara_100_run_for_jumping
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: テンション100MAXだよ！
   ストーリーボード: Park Chi Man
   作画監修: 柚山麻美
-  放送日(TXN): 2016/6/14
+  放送日(TXN): '2016-06-14'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: 中村能子
   話数: 100
   _key: pripara_100
 - lives:
   - pripara_101_charisma_to_girl_yeah
   - pripara_101_run_for_jumping
   - pripara_101_triangle_star
+  脚本: 江夏由結
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: キタ！神アイドルグランプリ！
   ストーリーボード: Nam Sung Min
   作画監修: 柚山麻美
-  放送日(TXN): 2016/6/21
+  放送日(TXN): '2016-06-21'
   演出: 小林浩輔
   絵コンテ: 金崎貴臣
-  脚本: 江夏由結
   話数: 101
   _key: pripara_101
 - lives:
   - pripara_102_rainbow_melody
   - pripara_102_run_for_jumping
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: 変幻自在！ジュエルチェンジぽよ♡
   ストーリーボード: Na Ki Chual
   作画監修: 本多恵美
-  放送日(TXN): 2016/6/28
+  放送日(TXN): '2016-06-28'
   演出: 京極尚彦
   絵コンテ: 京極尚彦
-  脚本: 福田裕子
   話数: 102
   _key: pripara_102
 - lives:
   - pripara_103_charisma_to_girl_yeah
   - pripara_103_ready_smile
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 落第アイドル始めちゃいました(T T)
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/7/5
+  放送日(TXN): '2016-07-05'
   演出: 佐藤まさふみ
   絵コンテ: 池端隆史
-  脚本: 金杉弘子
   話数: 103
   _key: pripara_103
 - lives:
   - pripara_104_debi_en_reversible_ring
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: LOVE！デビル色！魔力があればなんでもデビル！
   ストーリーボード: Park Chi Man
   作画監修: 本多恵美
-  放送日(TXN): 2016/7/12
+  放送日(TXN): '2016-07-12'
   演出: 渡辺健一郎
   絵コンテ: 渡辺健一郎
-  脚本: ふでやすかずゆき
   話数: 104
   _key: pripara_104
 - lives:
   - pripara_105_amazing_castle
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: ガァルル、目覚めるでちゅーっ!!
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/7/19
+  放送日(TXN): '2016-07-19'
   演出: 小林浩輔
   絵コンテ: 江島泰男
-  脚本: 大場小ゆり
   話数: 105
   _key: pripara_105
 - lives:
   - pripara_106_amazing_castle
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: 神アイドルグランプリ終了です
   ストーリーボード: Na Ki Chual
   作画監修: 本多恵美
-  放送日(TXN): 2016/7/26
+  放送日(TXN): '2016-07-26'
   演出: 伊藤史夫
   絵コンテ: 柊陽菜
-  脚本: 土屋理敬
   話数: 106
   _key: pripara_106
 - lives:
@@ -2715,435 +4643,435 @@
   - pripara_107_panic_labyrinth
   - pripara_107_pretty_prism_paradise
   - pripara_107_virtual_idol
+  脚本: 佐藤まさふみ
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 緊急会議！びんわんマネージャーだクマ！
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/8/2
+  放送日(TXN): '2016-08-02'
   演出: 小林浩輔
-  脚本: 佐藤まさふみ
   話数: 107
   _key: pripara_107
 - lives:
   - pripara_108_konouta_tomareihi
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: 帰ってきたプリパリ
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 2016/8/9
+  放送日(TXN): '2016-08-09'
   演出: 小林浩輔
   絵コンテ: 葛谷直行
-  脚本: 中村能子
   話数: 108
   _key: pripara_108
 - lives:
   - pripara_109_ready_smile
   - pripara_109_run_for_jumping
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: サパンナからSOS
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/8/16
+  放送日(TXN): '2016-08-16'
   演出: 小林浩輔
   絵コンテ: 金崎貴臣
-  脚本: 金杉弘子
   話数: 109
   _key: pripara_109
 - lives:
   - pripara_110_change_my_world
   - pripara_110_ready_smile
   - pripara_110_tondemo_summer_adventure
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Choi Hun Cheol
   サブタイトル: 水泳大会ぷり！イゴ！
   ストーリーボード: Na Ki Chual
   作画監修: 本多恵美
-  放送日(TXN): 2016/8/23
+  放送日(TXN): '2016-08-23'
   演出: 室谷靖
   絵コンテ: 柊陽菜
-  脚本: 福田裕子
   話数: 110
   _key: pripara_110
 - lives:
   - pripara_111_jun_amore_ai
   - pripara_111_love_week_old
   - pripara_111_papipupe_police
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 子連れ怪盗まほちゃん
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/8/30
+  放送日(TXN): '2016-08-30'
   演出: 小林浩輔
   絵コンテ: 池端隆史
-  脚本: 土屋理敬
   話数: 111
   _key: pripara_111
 - lives:
   - pripara_112_ready_smile
+  脚本: ふでやすかずゆき
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: 恋恋ジュルル
   ストーリーボード: Park Chi Man
   作画監修: 本多恵美
-  放送日(TXN): 2016/9/6
+  放送日(TXN): '2016-09-06'
   演出: 江島泰男
   絵コンテ: 江島泰男
-  脚本: ふでやすかずゆき
   話数: 112
   _key: pripara_112
 - lives:
   - pripara_113_charisma_to_girl_yeah
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: ちりちりちりちゃん!
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/9/13
+  放送日(TXN): '2016-09-13'
   演出: 小林浩輔
   絵コンテ: 藤澤俊幸
-  脚本: 大場小ゆり
   話数: 113
   _key: pripara_113
 - lives:
   - pripara_114_amazing_castle
   - pripara_114_mon_chouchou
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Choi Hun Cheol
   サブタイトル: 急げ！神アイドルグランプリ！
   ストーリーボード: Na Ki Chual
   作画監修: 本多恵美
-  放送日(TXN): 2016/9/20
+  放送日(TXN): '2016-09-20'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: 中村能子
   話数: 114
   _key: pripara_114
 - lives:
   - pripara_115_mon_chouchou
   - pripara_115_ready_smile
   - pripara_115_run_for_jumping
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: ひびけ！神アイドルグランプリ！
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/9/27
+  放送日(TXN): '2016-09-27'
   演出: 室谷靖
   絵コンテ: 今中菜々
-  脚本: 福田裕子
   話数: 115
   _key: pripara_115
 - lives:
   - pripara_116_charisma_to_girl_yeah
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: 消えたマネージャー！謎のサパンナ少女
   ストーリーボード: Park Chi Man
   作画監修: 榎本花子
-  放送日(TXN): 2016/10/4
+  放送日(TXN): '2016-10-04'
   演出: 伊藤史夫
   絵コンテ: 金崎貴臣
-  脚本: 金杉弘子
   話数: 116
   _key: pripara_116
 - lives:
   - pripara_117_girls_fantasy
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: 女神、アイドル始めちゃいました
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/10/11
+  放送日(TXN): '2016-10-11'
   演出: 小林浩輔
   絵コンテ: 政木伸一
-  脚本: 土屋理敬
   話数: 117
   _key: pripara_117
 - lives:
   - pripara_118_charisma_to_girl_yeah
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Choi Hun Cheol
   サブタイトル: 姉と妹と姫と野獣
   ストーリーボード: Na Ki Chual
   作画監修: 本多恵美
-  放送日(TXN): 2016/10/18
+  放送日(TXN): '2016-10-18'
   演出: 江島泰男
   絵コンテ: 葛谷直行
-  脚本: 福田裕子
   話数: 118
   _key: pripara_118
 - lives:
   - pripara_119_amazing_castle
+  脚本: 江夏由結
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: ほら〜！ハロマゲドンにゃ
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/10/25
+  放送日(TXN): '2016-10-25'
   演出: 渡辺健一郎
   絵コンテ: 渡辺健一郎
-  脚本: 江夏由結
   話数: 119
   _key: pripara_119
 - lives:
   - pripara_120_sugarless_friend
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: 甘くはいかないノンシュガー
   ストーリーボード: Park Chi Man
   作画監修: 本多恵美
-  放送日(TXN): 2016/11/1
+  放送日(TXN): '2016-11-01'
   演出: 小林浩輔
   絵コンテ: 誌村宏明
-  脚本: 中村能子
   話数: 120
   _key: pripara_120
 - lives:
   - pripara_121_run_for_jumping
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: めざめよ！女神のドレスデザイン
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/11/8
+  放送日(TXN): '2016-11-08'
   演出: 室谷靖
   絵コンテ: 柊陽菜
-  脚本: 大場小ゆり
   話数: 121
   _key: pripara_121
 - lives:
   - pripara_122_marble_make_up_a_ha_ha
   - pripara_122_ready_smile
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Choi Hun Cheol
   サブタイトル: 姉妹でかしこまっ！
   ストーリーボード: Na Ki Chual
   作画監修: 本多恵美
-  放送日(TXN): 2016/11/15
+  放送日(TXN): '2016-11-15'
   演出: 小林浩輔
   絵コンテ: 藤澤俊幸
-  脚本: 金杉弘子
   話数: 122
   _key: pripara_122
 - lives:
   - pripara_123_sugarless_friend
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: ノンシュガー漂流記
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/11/22
+  放送日(TXN): '2016-11-22'
   演出: 江島泰男
   絵コンテ: 葛谷直行
-  脚本: 福田裕子
   話数: 123
   _key: pripara_123
 - lives:
   - pripara_124_girls_fantasy
   - pripara_124_sugarless_friend
+  脚本: 土屋理敬
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: ジュリィとジャニス
   ストーリーボード: Park Chi Man
   作画監修: 本多恵美
-  放送日(TXN): 2016/11/29
+  放送日(TXN): '2016-11-29'
   演出: 小林浩輔
   絵コンテ: 政木伸一
-  脚本: 土屋理敬
   話数: 124
   _key: pripara_124
 - lives:
   - pripara_125_ready_smile
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: レッツ・ライブ！主役はもちろん君さ！
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/12/6
+  放送日(TXN): '2016-12-06'
   演出: 江島泰男
   絵コンテ: 柊陽菜
-  脚本: 大場小ゆり
   話数: 125
   _key: pripara_125
 - lives:
   - pripara_126_amazing_castle
   - pripara_126_ready_smile
   - pripara_126_run_for_jumping
+  脚本: 江夏由結
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: メリー・グランプリ！
   ストーリーボード: Na Ki Chual
   作画監修: 本多恵美
-  放送日(TXN): 2016/12/13
+  放送日(TXN): '2016-12-13'
   演出: 小林浩輔
   絵コンテ: 池端隆史
-  脚本: 江夏由結
   話数: 126
   _key: pripara_126
 - lives:
   - pripara_127_sugarless_friend
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: グランプリは甘くないウチャ
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2016/12/20
+  放送日(TXN): '2016-12-20'
   演出: 小林浩輔
   絵コンテ: 藤澤俊幸
-  脚本: 中村能子
   話数: 127
   _key: pripara_127
 - lives:
   - pripara_128_sugarless_friend
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: さよならウサチャ…。
   ストーリーボード: Park Chi Man
   作画監修: 本多恵美
-  放送日(TXN): 2016/12/27
+  放送日(TXN): '2016-12-27'
   演出: 江島泰男
   絵コンテ: 柊陽菜
-  脚本: 金杉弘子
   話数: 128
   _key: pripara_128
 - lives:
   - pripara_129_idle_wo_torimodose
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: み〜んなにチャンス！？リベンジライブ！
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2017/1/10
+  放送日(TXN): '2017-01-10'
   演出: 渡辺健一郎
   絵コンテ: 渡辺健一郎
-  脚本: 大場小ゆり
   話数: 129
   _key: pripara_129
 - lives:
   - pripara_130_girls_fantasy
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: 女神の想い、ママの誓い
   ストーリーボード: Na Ki Chual
   作画監修: 本多恵美
-  放送日(TXN): 2017/1/17
+  放送日(TXN): '2017-01-17'
   演出: 小林浩輔
   絵コンテ: 森脇真琴
-  脚本: 福田裕子
   話数: 130
   _key: pripara_130
 - lives:
   - pripara_131_idle_wo_torimodose
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 天国と地獄？決戦前夜！
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2017/1/24
+  放送日(TXN): '2017-01-24'
   演出: 川村ひろし
   絵コンテ: 岡田水樹
-  脚本: 金杉弘子
   話数: 131
   _key: pripara_131
 - lives:
   - pripara_132_amazing_castle
   - pripara_132_run_for_jumping
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: ロッキン・ガァジラ大決戦
   ストーリーボード: Park Chi Man
   作画監修: 戸田さやか
-  放送日(TXN): 2017/1/31
+  放送日(TXN): '2017-01-31'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: 中村能子
   話数: 132
   _key: pripara_132
 - lives:
   - pripara_133_idle_wo_torimodose
   - pripara_133_love_week_old
   - pripara_133_mon_chouchou
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: 語尾の彼方
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 2017/2/7
+  放送日(TXN): '2017-02-07'
   演出: 江島泰男
   絵コンテ: 藤澤俊幸
-  脚本: 大場小ゆり
   話数: 133
   _key: pripara_133
 - lives:
   - pripara_134_ready_smile
   - pripara_134_sugarless_friend
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: バレンタインは甘くない
   ストーリーボード: Na Ki Chual
   作画監修: 斉藤里枝
-  放送日(TXN): 2017/2/14
+  放送日(TXN): '2017-02-14'
   演出: 江島泰男
   絵コンテ: 川口敬一郎
-  脚本: 福田裕子
   話数: 134
   _key: pripara_134
 - lives:
   - pripara_135_make_it
   - pripara_135_mon_chouchou
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: スマイル0%
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 2017/2/21
+  放送日(TXN): '2017-02-21'
   演出: 小林浩輔
   絵コンテ: 誌村宏明
-  脚本: 福田裕子
   話数: 135
   _key: pripara_135
 - lives:
   - pripara_136_realize
+  脚本: 金杉弘子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: 3年目のテッパン
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 2017/2/28
+  放送日(TXN): '2017-02-28'
   演出: 小林浩輔
   絵コンテ: 池端隆史
-  脚本: 金杉弘子
   話数: 136
   _key: pripara_136
 - lives: []
+  脚本: 大場小ゆり
   episodeOfSeries: pripara
   アニメーション演出: Nam Sung Min
   サブタイトル: 決戦！神アイドル
   ストーリーボード: Nam Sung Min
   作画監修: 斉藤里枝
-  放送日(TXN): 2017/3/7
+  放送日(TXN): '2017-03-07'
   演出: 江島泰男
   絵コンテ: 川口敬一郎
-  脚本: 大場小ゆり
   話数: 137
   _key: pripara_137
 - lives:
   - pripara_138_girls_fantasy
   - pripara_138_i_friend_you
   - pripara_138_love_is_friend
+  脚本: 中村能子
   episodeOfSeries: pripara
   アニメーション演出: Na Ki Chual
   サブタイトル: 誕生！？神アイドル！
   ストーリーボード: Na Ki Chual
   作画監修: 斉藤里枝
-  放送日(TXN): 2017/3/14
+  放送日(TXN): '2017-03-14'
   演出: 小林浩輔
   絵コンテ: 藤澤俊幸
-  脚本: 中村能子
   話数: 138
   _key: pripara_138
 - lives:
@@ -3151,15 +5079,15 @@
   - pripara_139_memories_medley
   - pripara_139_my_friend_dear_friend
   - pripara_139_we_are_the_friends
+  脚本: 大島のぞむ
   episodeOfSeries: pripara
   アニメーション演出: Jeon Byung Cheol
   サブタイトル: 愛フレンド友
   ストーリーボード: Nam Sung Min
   作画監修: 本多恵美
-  放送日(TXN): 2017/3/21
+  放送日(TXN): '2017-03-21'
   演出: 小林浩輔
   絵コンテ: 柊陽菜
-  脚本: 大島のぞむ
   話数: 139
   _key: pripara_139
 - lives:
@@ -3169,14 +5097,626 @@
   - pripara_140_mon_chouchou
   - pripara_140_no_d_and_d_code
   - pripara_140_sugarless_friend
+  脚本: 福田裕子
   episodeOfSeries: pripara
   アニメーション演出: Park Chi Man
   サブタイトル: み〜んなトモダチ！ず〜っとトモダチ！
   ストーリーボード: Park Chi Man
   作画監修: 斉藤里枝
-  放送日(TXN): 2017/3/28
+  放送日(TXN): '2017-03-28'
   演出: 渡辺健一郎
   絵コンテ: 渡辺健一郎
-  脚本: 福田裕子
   話数: 140
   _key: pripara_140
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: 私はなる!店長にな〜る!
+  ストーリーボード: Park Chi Man
+  作画監修: 松浦麻衣
+  放送日(TXN): '2013-04-06'
+  演出: 徳本善信
+  絵コンテ: 青葉譲
+  話数: 1
+  _key: rl_1
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: あんにお任せ!ポップンスイーツ
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 戸田さやか
+  放送日(TXN): '2013-04-13'
+  演出: 小林浩輔
+  絵コンテ: 近藤信宏
+  話数: 2
+  _key: rl_2
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Han Young Hoon
+  サブタイトル: クロスがいと?COOL & HOT
+  ストーリーボード: Sung Won Yong
+  作画監修: 松浦麻衣
+  放送日(TXN): '2013-04-20'
+  演出: 野木森達哉
+  絵コンテ: 青葉譲
+  話数: 3
+  _key: rl_3
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: プリズムストーン・イースターにようこそ!
+  ストーリーボード: Song Geun Sik
+  作画監修: 伊藤良太
+  放送日(TXN): '2013-04-27'
+  演出: 小林浩輔
+  絵コンテ: 羽原久美子
+  話数: 4
+  _key: rl_4
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: 私の歌は色♡トリドリーム
+  ストーリーボード: Park Chi Man
+  作画監修: 戸田さやか
+  放送日(TXN): '2013-05-04'
+  演出: 大野和寿
+  絵コンテ: 川口敬一郎
+  話数: 5
+  _key: rl_5
+- lives: []
+  脚本: 村上桃子
+  episodeOfSeries: rl
+  アニメーション演出: Kim Jin Gu
+  サブタイトル: クールなハートがビートでヒート!
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 松浦麻衣
+  放送日(TXN): '2013-05-11'
+  演出: 小林浩輔
+  絵コンテ: 沖田宮奈
+  話数: 6
+  _key: rl_6
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: ガンコ親父にスイートマジック
+  ストーリーボード: Sung Won Yong
+  作画監修: 伊藤良太
+  放送日(TXN): '2013-05-18'
+  演出: 野木森達哉
+  絵コンテ: 近藤信宏
+  話数: 7
+  _key: rl_7
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Han Young Hoon
+  サブタイトル: 男の勝負はダンスバトル
+  ストーリーボード: Song Geun Sik
+  作画監修: 戸田さやか
+  放送日(TXN): '2013-05-25'
+  演出: 小林浩輔
+  絵コンテ: 川口敬一郎
+  話数: 8
+  _key: rl_8
+- lives: []
+  脚本: 本田雅也
+  episodeOfSeries: rl
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: プリズムライブは晴れのち嵐
+  ストーリーボード: Park Chi Man
+  作画監修: 松浦麻衣
+  放送日(TXN): '2013-06-01'
+  演出: 大野和寿
+  絵コンテ: 柊陽菜
+  話数: 9
+  _key: rl_9
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Ryu Bong Hyeo
+  サブタイトル: 謎の生物 プリズムストーンに現る!
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 伊藤良太
+  放送日(TXN): '2013-06-08'
+  演出: 小林浩輔
+  絵コンテ: 川口敬一郎
+  話数: 10
+  _key: rl_10
+- lives: []
+  脚本: 村上桃子
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: Go for ドリーミングセッション!
+  ストーリーボード: Sung Won Yong
+  作画監修: 戸田さやか
+  放送日(TXN): '2013-06-15'
+  演出: 小林浩輔
+  絵コンテ: 青葉譲
+  話数: 11
+  _key: rl_11
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Han Young Hoon
+  サブタイトル: はばたけ！勇気の羽（フェザー）
+  ストーリーボード: Sung Won Yong
+  作画監修: 松浦麻衣
+  放送日(TXN): '2013-06-22'
+  演出: 綿田慎也
+  絵コンテ: 青葉譲
+  話数: 12
+  _key: rl_12
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Na Ki Chual
+  サブタイトル: 心をつなぐ虹のかけ橋
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 伊藤良太
+  放送日(TXN): '2013-06-29'
+  演出: 小林浩輔
+  絵コンテ: 青葉譲
+  話数: 13
+  _key: rl_13
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: りんねの秘密
+  ストーリーボード: Sung Won Yong
+  作画監修: 戸田さやか
+  放送日(TXN): '2013-07-06'
+  演出: 野木森達哉
+  絵コンテ: 青葉譲
+  話数: 14
+  _key: rl_14
+- lives: []
+  脚本: 本田雅也
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: おとはのメルヘンティーパーティー
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-07-13'
+  演出: 小林浩輔
+  絵コンテ: 沖田宮奈
+  話数: 15
+  _key: rl_15
+- lives: []
+  脚本: 村上桃子
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: わかな、はっぴーフリーダム!にゃ
+  ストーリーボード: Song Geun Sik
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-07-20'
+  演出: 佐々木純人
+  絵コンテ: 佐野隆史
+  話数: 16
+  _key: rl_16
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Park Chi Man
+  サブタイトル: 気高く強くべるは咲く
+  ストーリーボード: Song Geun Sik
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-07-27'
+  演出: 小林浩輔
+  絵コンテ: 柊陽菜
+  話数: 17
+  _key: rl_17
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: 俺はヒロ!絶対アイドル☆愛・N・G
+  ストーリーボード: Park Chi Man
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-08-03'
+  演出: 大野和寿
+  絵コンテ: 柊陽菜
+  話数: 18
+  _key: rl_18
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Ryu Bong Hyeon
+  サブタイトル: 心を結ぶいと
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-08-10'
+  演出: 小林浩輔
+  絵コンテ: 沖田宮奈
+  話数: 19
+  _key: rl_19
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: 心重ねてときめきセッション!
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-08-17'
+  演出: 野木森達哉
+  絵コンテ: 日歩冠星
+  話数: 20
+  _key: rl_20
+- lives: []
+  脚本: 本田雅也
+  episodeOfSeries: rl
+  アニメーション演出: Park Chi Man
+  サブタイトル: 2度目のオーディション
+  ストーリーボード: Song Geun Sik
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-08-24'
+  演出: 小林浩輔
+  絵コンテ: 柊陽菜
+  話数: 21
+  _key: rl_21
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: 約束とスペシャルサンド
+  ストーリーボード: Park Chi Man
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-08-31'
+  演出: 綿田慎也
+  絵コンテ: 誌村宏明
+  話数: 22
+  _key: rl_22
+- lives: []
+  脚本: 村上桃子
+  episodeOfSeries: rl
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: 思い出運ぶプリズムの風
+  ストーリーボード: Park Chi Man
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-09-07'
+  演出: 小林浩輔
+  絵コンテ: 沖田宮奈
+  話数: 23
+  _key: rl_23
+- lives: []
+  脚本: 本田雅也
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: ひとりぼっちの女王
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-09-14'
+  演出: 大野和寿
+  絵コンテ: 柊陽菜
+  話数: 24
+  _key: rl_24
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Han Young Hoon
+  サブタイトル: さよなら、べる
+  ストーリーボード: Song Geun Sik
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-09-21'
+  演出: 小林浩輔
+  絵コンテ: 川口敬一郎
+  話数: 25
+  _key: rl_25
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: 虹を呼ぶハッピーレイン
+  ストーリーボード: Park Chi Man
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-09-28'
+  演出: 小林浩輔
+  絵コンテ: 日歩冠星
+  話数: 26
+  _key: rl_26
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: ピコック先生 怒る!
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-10-05'
+  演出: 野木森達哉
+  絵コンテ: 野木森達哉
+  話数: 27
+  _key: rl_27
+- lives: []
+  脚本: 村上桃子
+  episodeOfSeries: rl
+  アニメーション演出: Kim Jin Gu
+  サブタイトル: ジュネ様と一緒にプリズムトーク!
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-10-12'
+  演出: 小林浩輔
+  絵コンテ: 柊陽菜
+  話数: 28
+  _key: rl_28
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Ahn Jai Ho
+  サブタイトル: 私はべる!店長にな〜る♪
+  ストーリーボード: Song Geun Sik
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-10-19'
+  演出: 大野和寿
+  絵コンテ: 柊陽菜
+  話数: 29
+  _key: rl_29
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Park Chi Man
+  サブタイトル: 誓いのクロスロード
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-10-26'
+  演出: 小林浩輔
+  絵コンテ: 沖田宮奈
+  話数: 30
+  _key: rl_30
+- lives: []
+  脚本: 青葉譲
+  episodeOfSeries: rl
+  アニメーション演出: Na Ki Chual
+  サブタイトル: 目指すは勇者!フリーダム!!
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-11-02'
+  演出: 佐々木純人
+  絵コンテ: 日歩冠星
+  話数: 31
+  _key: rl_31
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Na Ki Chual
+  サブタイトル: 愛に羽ばたく女神（ジュネ）
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-11-09'
+  演出: 小林浩輔
+  絵コンテ: 日歩冠星
+  話数: 32
+  _key: rl_32
+- lives: []
+  脚本: 村上桃子
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: トライアングル・デートにゃ♡
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-11-16'
+  演出: 野木森達哉
+  絵コンテ: 柊陽菜
+  話数: 33
+  _key: rl_33
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: ハピなるなら手をつなごう!
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-11-23'
+  演出: 小林浩輔
+  絵コンテ: 柊陽菜
+  話数: 34
+  _key: rl_34
+- lives: []
+  脚本: 本田雅也
+  episodeOfSeries: rl
+  アニメーション演出: Na Ki Chual
+  サブタイトル: シャッフルデュオでダメだこりゃ!
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-11-30'
+  演出: 佐々木純人
+  絵コンテ: 鈴木輪流郎
+  話数: 35
+  _key: rl_35
+- lives: []
+  脚本: 村上桃子
+  episodeOfSeries: rl
+  アニメーション演出: Na Ki Chual
+  サブタイトル: お泊り会でふたりはめちゃウマ!?
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-12-07'
+  演出: 小林浩輔
+  絵コンテ: 柊陽菜
+  話数: 36
+  _key: rl_36
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Han Young Hoon
+  サブタイトル: 哀しみのラッキースター
+  ストーリーボード: Song Geun Sik
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-12-14'
+  演出: 綿田慎也
+  絵コンテ: 沖田宮奈
+  話数: 37
+  _key: rl_37
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Han Young Hoon
+  サブタイトル: 聖夜にハッピーベルがなる
+  ストーリーボード: Song Geun Sik
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-12-21'
+  演出: 小林浩輔
+  絵コンテ: 川口敬一郎
+  話数: 38
+  _key: rl_38
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Na Ki Chual
+  サブタイトル: 湯けむり!虹色カッパ伝説
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 森友宏樹
+  放送日(TXN): '2013-12-28'
+  演出: 大野和寿
+  絵コンテ: 日歩冠星
+  話数: 39
+  _key: rl_39
+- lives: []
+  脚本: 村上桃子
+  episodeOfSeries: rl
+  アニメーション演出: Kim Jin Gu
+  サブタイトル: W告白?好きです先輩!
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2014-01-11'
+  演出: 小林浩輔
+  絵コンテ: 柊陽菜
+  話数: 40
+  _key: rl_40
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: 星がつなぐ絆
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2014-01-18'
+  演出: 佐々木純人
+  絵コンテ: 柊陽菜
+  話数: 41
+  _key: rl_41
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Han Young Hoon
+  サブタイトル: なるピンチ!消えたラブリン
+  ストーリーボード: Song Geun Sik
+  作画監修: 森友宏樹
+  放送日(TXN): '2014-01-25'
+  演出: 小林浩輔
+  絵コンテ: 沖田宮奈
+  話数: 42
+  _key: rl_42
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Choi Hun Cheol
+  サブタイトル: 天使の決意
+  ストーリーボード: Choi Hun Cheol
+  作画監修: 森友宏樹
+  放送日(TXN): '2014-02-01'
+  演出: 小林浩輔
+  絵コンテ: 日歩冠星
+  話数: 43
+  _key: rl_43
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Kim Jin Gu
+  サブタイトル: 虹の救世主は君ジャ!
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2014-02-08'
+  演出: 野木森達哉
+  絵コンテ: 日歩冠星
+  話数: 44
+  _key: rl_44
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: 薔薇の革命
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2014-02-15'
+  演出: 小林浩輔
+  絵コンテ: 日歩冠星
+  話数: 45
+  _key: rl_45
+- lives: []
+  脚本: 村上桃子
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: 開幕!オーバー・ザ・レインボーセッション
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2014-02-22'
+  演出: 佐々木純人
+  絵コンテ: 柊陽菜
+  話数: 46
+  _key: rl_46
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Kim Jin Gu
+  サブタイトル: 愛に輝く幸せの星（ラッキースター）
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2014-03-01'
+  演出: 小林浩輔
+  絵コンテ: 川口敬一郎
+  話数: 47
+  _key: rl_47
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Kim Jin Gu
+  サブタイトル: 私らしく、人間らしく
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2014-03-08'
+  演出: 大野和寿
+  絵コンテ: 柊陽菜
+  話数: 48
+  _key: rl_48
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: 命燃え尽きるまで…
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2014-03-15'
+  演出: 小林浩輔
+  絵コンテ: 日歩冠星
+  話数: 49
+  _key: rl_49
+- lives: []
+  脚本: 井内秀治
+  episodeOfSeries: rl
+  アニメーション演出: Kim Jin Gu
+  サブタイトル: 煌めきはあなたのそばに
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2014-03-22'
+  演出: 小林浩輔
+  絵コンテ: 日歩冠星
+  話数: 50
+  _key: rl_50
+- lives: []
+  脚本: 坪田文
+  episodeOfSeries: rl
+  アニメーション演出: Jeon Byung Cheol
+  サブタイトル: GIFT
+  ストーリーボード: Sung Won Yong
+  作画監修: 森友宏樹
+  放送日(TXN): '2014-03-29'
+  演出: 青葉譲
+  絵コンテ: 柊陽菜
+  話数: 51
+  _key: rl_51

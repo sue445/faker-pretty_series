@@ -1,8 +1,24 @@
 ---
 - lives: []
+  name: 1000%キュンキュンさせてよ♡
+  name_kana: せんぱーせんときゅんきゅんさせてよ
+  _key: 1000percent_kyunkyun_saseteyo
+- lives: []
+  name: 366LOVEダイアリー
+  name_kana: さんびゃくろくじゅろくらぶだいありー
+  _key: 366love_diary
+- lives: []
+  name: A・B・C・D・いいね★ダンス
+  name_kana: えーびーしーでぃーいいねだんす
+  _key: abcd_iine_dance
+- lives: []
   name: あっちゃこっちゃゲーム
   name_kana: あっちゃこっちゃげーむ
   _key: accha_koccha_game
+- lives: []
+  name: ALIVE
+  name_kana: あらいぶ
+  _key: alive
 - lives:
   - pripara_105_amazing_castle
   - pripara_106_amazing_castle
@@ -21,21 +37,53 @@
   name_kana: あらうんどざぷりぱらんど
   _key: around_the_pripara_land
 - lives: []
+  name: athletic core
+  name_kana: あすれちっくこあ
+  _key: athleticcore
+- lives: []
   name: Believe My DREAM!!
   name_kana: びりーぶまいどりーむ
   _key: believe_my_dream
+- lives: []
+  name: Blowin' in the Mind
+  name_kana: ぶろういんざまいんど
+  _key: blowin_in_the_mind
+- lives: []
+  name: Body Rock
+  name_kana: ぼでぃーろっく
+  _key: body_rock
+- lives: []
+  name: BOY MEETS GIRL
+  name_kana: ぼーいみーつがーる
+  _key: boy_meets_girl
 - lives: []
   name: Brand New Dreamer
   name_kana: ぶらんにゅーどりーまー
   _key: brand_new_dreamer
 - lives: []
+  name: Brand New Girls
+  name_kana: ぶらんにゅーがーるず
+  _key: brand_new_girls
+- lives: []
   name: ブランニュー・ハピネス！
   name_kana: ぶらんにゅーはぴねす
   _key: brand_new_happiness!
 - lives: []
+  name: BRAND NEW WORLD!!
+  name_kana: ぶらんにゅーわーるど
+  _key: brand_new_world
+- lives: []
   name: ブライトファンタジー
   name_kana: ぶらいとふぁんたじー
   _key: bright_fantasy
+- lives: []
+  name: BT37.5
+  name_kana: びてぃーさんじゅうななてんご
+  _key: bt375
+- lives: []
+  name: Butterfly Effect
+  name_kana: ばたふらいえふぇくと
+  _key: butterfly_effect
 - lives:
   - pripara_110_change_my_world
   - pripara_22_change_my_world
@@ -63,13 +111,37 @@
   name_kana: かりすまーとがーるいぇい
   _key: charisma_to_girl_yeah
 - lives: []
+  name: cheer! yeah!×2
+  name_kana: ちゃえちゃえ
+  _key: cheer_yeah_2
+- lives: []
+  name: チェキ☆ラブ
+  name_kana: ちぇきらぶ
+  _key: cheki_love
+- lives: []
+  name: cherry-picking days
+  name_kana: ちぇりーぴっきんぐでいず
+  _key: cherry_picking_days
+- lives: []
   name: COMETIC SILHOUETTE
   name_kana: こめてぃっくしるえっと
   _key: cometic_silhouette
 - lives: []
+  name: CRAZY GONNA CRAZY
+  name_kana: くれいじーごなくれいじー
+  _key: crazy_gonna_crazy
+- lives: []
+  name: キューティ・ブレイキン
+  name_kana: きゅーてぃぶれいきん
+  _key: cutie_breakin
+- lives: []
   name: Dear My Future　～未来の自分へ～
   name_kana: でぃあまいふゅーちゃー みらいのじぶんへ
   _key: dear_my_future_miraino_jibunhe
+- lives: []
+  name: Dear My Future ～未来の自分へ～
+  name_kana: でぃあまいふゅーちゃー みらいのじぶんへ
+  _key: dear_my_future_miraino_jibunhe_prizmmy
 - lives:
   - pripara_104_debi_en_reversible_ring
   - pripara_40_debi_en_reversible_ring
@@ -84,9 +156,26 @@
   name_kana: でびえんりばーしぶりんぐ
   _key: debi_en_reversible_ring
 - lives: []
+  name: Despertar del SOL!
+  name_kana: ですぺるたるでるそる
+  _key: despertal_del_sol
+- lives:
+  - prichan_101_diamond_smile
   name: ダイヤモンドスマイル
   name_kana: だいやもんどすまいる
   _key: diamond_smile
+- lives: []
+  name: Don't Give Up
+  name_kana: どんとぎぶあっぷ
+  _key: dont_give_up
+- lives: []
+  name: どしゃぶりHAPPY!
+  name_kana: どしゃぶりはっぴー
+  _key: dosyaburi_happy
+- lives: []
+  name: ドラマチックLOVE
+  name_kana: どらまちっくらぶ
+  _key: dramatic_love
 - lives: []
   name: Dream Goes On
   name_kana: どりーむごーずおん
@@ -97,7 +186,6 @@
   - pripara_43_dream_parade
   - pripara_47_dream_parade
   - pripara_50_dream_parade
-  - pripara_51_dream_parade
   - pripara_53_dream_parade
   - pripara_59_dream_parade
   - pripara_61_dream_parade
@@ -112,13 +200,65 @@
   name_kana: せんぶんのいちえいえんのびがく
   _key: eien_no_bigaku
 - lives: []
+  name: えもめきピッカーン
+  name_kana: えもめきぴっかーん
+  _key: emomeki_pikka-n
+- lives: []
+  name: Everybody's Gonna be Happy
+  name_kana: えぶりでいずごなびーはっぴー
+  _key: everybodys_gonna_be_happy
+- lives: []
+  name: EZ DO DANCE
+  name_kana: いーじーどぅーだんす
+  _key: ez_do_dance
+- lives: []
+  name: EZ DO DANCE -K.O.P. REMIX-
+  name_kana: いーじーどぅーだんすけーおーぴーりみっくす
+  _key: ez_do_dance_kop_rimix
+- lives: []
+  name: EZ DO DANCE -THUNDER STORM ver.-
+  name_kana: いーじーどぅだんすさんだーすとーむばーじょん
+  _key: ez_do_dance_thunder_storm_ver
+- lives: []
+  name: ファイブカードは突然に…
+  name_kana: ふぁいぶかーどはとつぜんに
+  _key: five_card_ha_totsuzenni
+- lives: []
+  name: Fly in the sky
+  name_kana: ふらいいんざすかい
+  _key: fly_in_the_sky
+- lives: []
   name: フォーチュン・カラット
   name_kana: ふぉーちゅんからっと
   _key: fortune_carat
 - lives: []
+  name: FREEDOM
+  name_kana: ふりーだむ
+  _key: freedom
+- lives: []
+  name: FREEDOM -THUNDER STORM ver.-
+  name_kana: ふりーだむさんだーすとーむばーじょん
+  _key: freedom_thunder_storm_ver
+- lives: []
+  name: フレンドパスワード
+  name_kana: ふれんどぱすわーど
+  _key: friend_password
+- lives: []
+  name: フレンドパスワード ～Another World～
+  name_kana: ふれんどぱすわーど あなざーわーるど
+  _key: friend_password_another_world
+- lives: []
+  name: Get music!
+  name_kana: げっとみゅーじっく
+  _key: get_music
+- lives: []
   name: Get Over Dress-code
   name_kana: げっとおーばーどれすこーど
   _key: get_over_dress_code
+- lives: []
+  name: gift
+  name_kana: ぎふと
+  _key: gift
 - lives: []
   name: Giraギャラティック・タイトロープ
   name_kana: ぎらぎゃらくてぃっくたいとろーぷ
@@ -148,6 +288,10 @@
   name: Growin‘ Jewel!
   name_kana: ぐろーいんじゅえる
   _key: growin_jewel
+- lives: []
+  name: Happy GO Lucky! ～ハピ☆ラキでゴー!～
+  name_kana: はっぴーごーらっきー はぴらきでごー
+  _key: happy_go_lucky_hapiraki_de_go
 - lives:
   - pripara_22_happy_pa_lucky
   - pripara_24_happy_pa_lucky
@@ -161,9 +305,29 @@
   name_kana: はっぴーぱらっきー
   _key: happy_pa_lucky
 - lives: []
+  name: ハッピースター☆レストラン
+  name_kana: はっぴーすたーれすとらん
+  _key: happy_star_restaurant
+- lives: []
+  name: ハート♥イロ♥トリドリ～ム
+  name_kana: はーといろとりどりーむ
+  _key: heart_iro_tori_dream
+- lives: []
   name: ハートフル♡ドリーム
   name_kana: はーとふるどりーむ
   _key: heartful_dream
+- lives: []
+  name: ヒロインズドラマ
+  name_kana: ひろいんずどらま
+  _key: heroines_drama
+- lives: []
+  name: Hop! Step!! Jump!!!
+  name_kana: ほっぷすてっぷじゃんぷ
+  _key: hop_step_jump
+- lives: []
+  name: 百花繚乱
+  name_kana: ひゃっかりょうらん
+  _key: hyakkaryouran
 - lives:
   - pripara_138_i_friend_you
   - pripara_139_i_friend_you
@@ -174,6 +338,14 @@
   name: I Just Wanna Be With You ~仮想(ヴァーチャル)と真実(リアル)の狭間で~
   name_kana: あいじゃすとわなびーうぃずゆー ばーちゃるとりあるのはざまで
   _key: i_just_wana_be_with_you
+- lives: []
+  name: I know Shangri-La
+  name_kana: あいのーしゃんぐりら
+  _key: i_know_shangri_la
+- lives: []
+  name: I Wannabee myself!! ～自分らしくいたい!～
+  name_kana: あいわなびーまいせるふ じぶんらしくいたい
+  _key: i_wannabe_myself_jibun_rashiku_itai
 - lives:
   - pripara_129_idle_wo_torimodose
   - pripara_131_idle_wo_torimodose
@@ -191,9 +363,30 @@
   name_kana: あいどるたいむ
   _key: idol_time
 - lives: []
+  name: イルミナージュ・ランド
+  name_kana: いるみなーじゅらんど
+  _key: illuminage_land
+- lives:
+  - prichan_102_individual_jewel
+  name: インディビジュアル・ジュエル
+  name_kana: いんでぃびじゅあるじゅえる
+  _key: individual_jewel
+- lives: []
+  name: いたずらカーニバル!!
+  name_kana: いたずらかーにばる
+  _key: itazura_carnival
+- lives: []
+  name: 愛しのティンカーベル
+  name_kana: いとしのてぃんかーべる
+  _key: itoshi_no_tinker_bell
+- lives: []
   name: じゃんけんキラッと！プリ☆チャン
   name_kana: じゃんけんきらっとぷりちゃん
   _key: janken_kiratto_prichan
+- lives: []
+  name: JOKER KISS!
+  name_kana: じょーかーきす
+  _key: joker_kiss
 - lives: []
   name: Jumpin'! Dancin'!
   name_kana: じゃんぴんだんしん
@@ -215,6 +408,10 @@
   name_kana: じゃすとまいちゃんすこーる
   _key: just_my_chance_call
 - lives: []
+  name: 叙情ピンフォール
+  name_kana: じょじょうぴんほーる
+  _key: jyojyou_pinfall
+- lives: []
   name: 快打洗心♡カッキンBUDDY
   name_kana: かいだせんしんかっきんばでぃー
   _key: kaida_sensin_kakkin_buddy
@@ -233,13 +430,29 @@
   name_kana: きらきらんうぇい
   _key: kiraki_runway
 - lives: []
+  name: キラリスト・ジュエリスト
+  name_kana: きらりすとじゅえりすと
+  _key: kiralist_jewelist
+- lives: []
   name: キラリ覚醒☆リインカーネーション
   name_kana: きらりかくせいりいんかーねーしょん
   _key: kirari_kakusei_reincarnation
 - lives: []
+  name: キラッとプリ☆チャンランド
+  name_kana: きらっとぷりちゃんらんど
+  _key: kiratto_prichan_land
+- lives: []
   name: キラッとスタート
   name_kana: きらっとすたーと
   _key: kiratto_start
+- lives: []
+  name: 恋のロイヤルストレートフラッシュ
+  name_kana: こいのろいやるすとれーとふらっしゅ
+  _key: koi_no_royal_straight_flush
+- lives: []
+  name: ココロ充電!
+  name_kana: こころじゅうでん
+  _key: kokoro_jyuuden
 - lives:
   - pripara_108_konouta_tomareihi
   - pripara_52_konouta_tomareihi
@@ -249,6 +462,26 @@
   name: コノウタトマレイヒ
   name_kana: このうたとまれいひ
   _key: konouta_tomareihi
+- lives: []
+  name: コトバ・ブーケ
+  name_kana: ことばぶーけ
+  _key: kotoba_bouquet
+- lives: []
+  name: La La Meltic StAr
+  name_kana: ららめるてぃっくすたー
+  _key: la_la_meltic_star
+- lives: []
+  name: Life is Just a Miracle ～生きているって素晴らしい～
+  name_kana: らいふいずじゃすとあみらくる いきてるってすばらしい
+  _key: life_is_just_a_miracle_ikiterutte_subarashii
+- lives: []
+  name: Little Wing&Beautiful Pride
+  name_kana: りとるうぃんぐあんどびゅーてぃふるぷらいど
+  _key: little_wing_and_beautiful_pride
+- lives: []
+  name: LolitA☆Strawberry in summer
+  name_kana: ろりーたすとろべりーいんさまー
+  _key: lolita_strawberry_in_summer
 - lives:
   - pripara_35_love_friend_style
   - pripara_36_love_friend_style
@@ -263,6 +496,10 @@
   name: 組曲フォーエバー☆フレンズ ～第二楽章～ LOVE IS FRIEND
   name_kana: くみきょくふぉーえばーふれんず だいにがくしょう らぶいずふれんど
   _key: love_is_friend
+- lives: []
+  name: LOVE♥MIX
+  name_kana: らぶみっくす
+  _key: love_mix
 - lives: []
   name: LOVE TROOPER
   name_kana: らぶとるーぱー
@@ -285,6 +522,18 @@
   name: ラッキー！サプライズ☆バースデイ
   name_kana: らっきーさぷらいずばーすでい
   _key: lucky_surprise_birthday
+- lives: []
+  name: ルミナンスプリンセス
+  name_kana: るみなんすぷりんせす
+  _key: luminance_princess
+- lives: []
+  name: ルナティックDEStiNy
+  name_kana: るなてぃっくですてぃにー
+  _key: lunatic_destiny
+- lives: []
+  name: Lustro della LUNA
+  name_kana: るーすとろでらるーな
+  _key: lustro_della_luna
 - lives:
   - pripara_135_make_it
   - pripara_1_make_it
@@ -321,6 +570,7 @@
   _key: memorial
 - lives:
   - prichan_100_memories_for_future
+  - prichan_102_memories_for_future
   name: MEMORIES FOR FUTURE
   name_kana: めもりーずふぉーふゅーちゃー
   _key: memories_for_future
@@ -330,9 +580,26 @@
   name_kana: くみきょくふぉーえばーふれんず いんたーりゅーど めもりーずめどれー
   _key: memories_medley
 - lives: []
+  name: めらめらハートが熱くなる
+  name_kana: めらめらはーとがあつくなる
+  _key: meramera_heat_ga_atsukunaru
+- lives: []
+  name: Merry Merry Fantasia!
+  name_kana: めりーめりーふぁんたじあ
+  _key: merry_merry_fantasia
+- lives:
+  - prichan_103_miracle_coaster
+  name: ミラクルコースター
+  name_kana: みらくるこーすたー
+  _key: miracle_coaster
+- lives: []
   name: ミラクル☆パラダイス
   name_kana: みらくるぱらだいす
   _key: miracle_paradise
+- lives: []
+  name: Mirage JET
+  name_kana: みらーじゅじぇっと
+  _key: mirage_jet
 - lives: []
   name: Miss.プリオネア
   name_kana: みすぷりおねあ
@@ -347,6 +614,10 @@
   name_kana: もんしゅしゅ
   _key: mon_chouchou
 - lives: []
+  name: MOONSHINE
+  name_kana: むーんしゃいん
+  _key: moonshine
+- lives: []
   name: 胸キュンLove Song
   name_kana: むねきゅんらぶそんぐ
   _key: mune_kyun_love_song
@@ -355,6 +626,18 @@
   name: 組曲フォーエバー☆フレンズ ～第三楽章～ My Friend, Dear Friend
   name_kana: くみきょくふぉーえばーふれんず だいさんがくしょう まいふれんどでぃあふれんど
   _key: my_friend_dear_friend
+- lives: []
+  name: My Secret heArtbeats
+  name_kana: まいしーくれっとはーとびーつ
+  _key: my_secret_heartbeats
+- lives: []
+  name: my Transform
+  name_kana: まいとらんすふぉーむ
+  _key: my_transform
+- lives: []
+  name: ナナイロノチカイ! -Brilliant oath-
+  name_kana: なないろのちかい ぶりりあんとおーす
+  _key: nanaironochikai_brilliant_oath
 - lives: []
   name: Neo Dimension Go!!
   name_kana: ねおでぃめんしょんごー
@@ -367,6 +650,14 @@
   name: never-ending!!
   name_kana: ねばーえんでぃんぐ
   _key: never_ending
+- lives: []
+  name: Never Let Me Down ～がんばりやぁ!～
+  name_kana: ねばーれっとみーだうん がんばりやぁ
+  _key: never_let_me_down_ganbariyaa
+- lives: []
+  name: 虹色CROWN
+  name_kana: にじいろくらうん
+  _key: nijiiro_crown
 - lives:
   - pripara_140_no_d_and_d_code
   - pripara_14_no_d_and_d_code
@@ -380,6 +671,10 @@
   name: No D&D code
   name_kana: のーでぃーあんどでぃーこーど
   _key: no_d_and_d_code
+- lives: []
+  name: nth color
+  name_kana: えぬすからー
+  _key: nth_color
 - lives:
   - pripara_66_omu_omelet
   - pripara_67_omu_omelet
@@ -387,11 +682,19 @@
   name: オムオムライス
   name_kana: おむおむらいす
   _key: omu_omelet
+- lives: []
+  name: One Heart
+  name_kana: わんはーと
+  _key: one_heart
 - lives:
   - prichan_5_one_two_sweets
   name: ワン・ツー・スウィーツ
   name_kana: わんつーすうぃーつ
   _key: one_two_sweets
+- lives: []
+  name: Orange Flamingo
+  name_kana: おれんじふらみんご
+  _key: orange_flamingo
 - lives: []
   name: おしゃまトリックスの歌
   name_kana: おしゃまとりっくすのうた
@@ -400,6 +703,14 @@
   name: 乙女アテンションプリーズ
   name_kana: おとめあてんしょんぷりーず
   _key: otome_attention_please
+- lives: []
+  name: Over the Sunshine!
+  name_kana: おーばーざさんしゃいん
+  _key: over_the_sunshine
+- lives: []
+  name: おやくそくセンセーション
+  name_kana: おやくそくせんせーしょん
+  _key: oyakusoku_sensation
 - lives:
   - pripara_107_panic_labyrinth
   - pripara_64_panic_labyrinth
@@ -408,6 +719,10 @@
   name: パニックラビリンス
   name_kana: ぱにっくらびりんす
   _key: panic_labyrinth
+- lives: []
+  name: パンピナッ！
+  name_kana: ぱんぴな
+  _key: panpina
 - lives:
   - pripara_111_papipupe_police
   - pripara_69_papipupe_police
@@ -416,9 +731,21 @@
   name_kana: ぱぴぷぺぽりす
   _key: papipupe_police
 - lives: []
+  name: Party driver
+  name_kana: ぱーてぃどらいばー
+  _key: party_driver
+- lives: []
   name: パーフェクト・フィナーレ
   name_kana: ぱーふぇくとふぃなーれ
   _key: perfect_finale
+- lives: []
+  name: プラネタリウムの殻
+  name_kana: ぷらねたりうむのから
+  _key: planetarium_no_kara
+- lives: []
+  name: プラトニックソード
+  name_kana: ぷらとにっくそーど
+  _key: platonic_sword
 - lives: []
   name: Play Sound☆
   name_kana: ぷれいさうんど
@@ -446,6 +773,18 @@
   name_kana: ぷりてぃーぷりずむぱらだいす
   _key: pretty_prism_paradise
 - lives: []
+  name: プリティーリズムでGo!
+  name_kana: ぷりてぃーりずむでごー
+  _key: prettyrhythm_de_go
+- lives: []
+  name: pride
+  name_kana: ぷらいど
+  _key: pride
+- lives: []
+  name: pride -KING OF PRISM ver.-
+  name_kana: ぷらいどきんぐおぶぷりずむばーじょん
+  _key: pride_kop_ver
+- lives: []
   name: プリパラ☆ダンシング!!!
   name_kana: ぷりぱらだんしんぐ
   _key: pripara_dancing
@@ -454,11 +793,19 @@
   name: ぷりっとぱ～ふぇくと
   name_kana: ぷりっとぱーふぇくと
   _key: pritto_perfect
+- lives: []
+  name: Que sera
+  name_kana: けせら
+  _key: que_sera
 - lives:
   - pripara_102_rainbow_melody
   name: レインボウ・メロディー♪
   name_kana: れいんぼうめろでぃー
   _key: rainbow_melody
+- lives: []
+  name: RainBow×RainBow
+  name_kana: れいんぼーれいんぼー
+  _key: rainbow_rainbow
 - lives:
   - prichan_1_ready_action
   name: レディー・アクション！
@@ -487,6 +834,14 @@
   name_kana: りあらいず
   _key: realize
 - lives: []
+  name: Reboot
+  name_kana: りぶーと
+  _key: reboot
+- lives: []
+  name: Reboot -Hiro ver.-
+  name_kana: りぶーとひろばー
+  _key: reboot_hiro_ver
+- lives: []
   name: Red Flash Revolution
   name_kana: れっどふらっしゅれぼりゅーしょん
   _key: red_flash_fevolution
@@ -494,6 +849,14 @@
   name: リンリン♪がぁらふぁらんど
   name_kana: りんりんがぁらふぁらんど
   _key: ring_ring_garafaland
+- lives: []
+  name: ロケットハート
+  name_kana: ろけっとはーと
+  _key: rocket_heart
+- lives: []
+  name: Rosette Nebula
+  name_kana: ろぜったねびゅら
+  _key: rosette_nebula
 - lives:
   - pripara_100_run_for_jumping
   - pripara_101_run_for_jumping
@@ -511,6 +874,26 @@
   name: 最上級ぱらどっくす
   name_kana: さいじょうきゅうぱらどっくす
   _key: saijokyu_paradox
+- lives: []
+  name: Sailing!
+  name_kana: せいりんぐ
+  _key: sailing
+- lives: []
+  name: サンキュッ！！
+  name_kana: さんきゅ
+  _key: sankyu
+- lives: []
+  name: "§Rainbow"
+  name_kana: せくしょんれいんぼー
+  _key: section_rainbow
+- lives: []
+  name: Sevendays Love，Sevendays Friend
+  name_kana: せぶんでいずらぶせぶんでいずふれんど
+  _key: sevendayslove_sevendays_friend
+- lives: []
+  name: Shall We Go?!
+  name_kana: しゃるうぃーごー
+  _key: shall_we_go
 - lives:
   - prichan_56_shiawasei_kawaii_sanka
   - prichan_57_shiawasei_kawaii_sanka
@@ -525,6 +908,18 @@
   name: Shining Star
   name_kana: しゃいにんぐすたー
   _key: shining_star
+- lives: []
+  name: Shiny Seven Stars!
+  name_kana: しゃいにーせぶんすたーず
+  _key: shiny_seven_stars
+- lives: []
+  name: Shiny Stellar
+  name_kana: しゃいにーすてら
+  _key: shiny_stellar
+- lives: []
+  name: スペース！スパイス！スペクタクル！
+  name_kana: すぺーすすぱいすすぺくたくる
+  _key: space_spice_spectacle
 - lives: []
   name: すた～らいとカーニバル☆
   name_kana: すたーらいとかーにばる
@@ -546,13 +941,37 @@
   name_kana: すきすきせんさー
   _key: suki_suki_sensor
 - lives: []
+  name: Summer day
+  name_kana: さまーでい
+  _key: summer_day
+- lives: []
   name: サンシャイン・ベル!
   name_kana: さんしゃいんべる
   _key: sunshine_bell
 - lives: []
+  name: sunshine smiles
+  name_kana: さんしゃいんすまいるず
+  _key: sunshine_smiles
+- lives: []
   name: SUPER CUTIE SUPER GIRL
   name_kana: すーぱーきゅーてぃーすーぱーがーる
   _key: super_cutie_super_girl
+- lives: []
+  name: survival dAnce ～no no cry more～
+  name_kana: さばいばるだんす のーのーくらいもあ
+  _key: survival_dance_no_no_cry_more
+- lives: []
+  name: Sweet time Cooking magic ～胸ペコなんです私って～
+  name_kana: すいーとたいむくっきんぐまじっく むねぺこなんですわたしって
+  _key: sweet_time_cooking_magic_munepeko_nandesu_watasitte
+- lives: []
+  name: Switch On My Heart
+  name_kana: すいっちおんまいはーと
+  _key: switch_on_my_heart
+- lives: []
+  name: シュワシュワBABY
+  name_kana: しゅわしゅわべいびー
+  _key: syuwasyuwa_baby
 - lives:
   - pripara_11_taiyo_no_flare_serbet
   - pripara_21_taiyo_no_flare_serbet
@@ -601,23 +1020,43 @@
   name: トライアングル・スター
   name_kana: とらいあんぐるすたー
   _key: triangle_star
+- lives: []
+  name: ツヨキ!ツインテールズ
+  name_kana: つよきついんてーるず
+  _key: tsuyoki_twintails
 - lives:
   - pripara_85_twin_mirror_compact
   - pripara_90_twin_mirror_compact
   name: Twin mirror♥compact
   name_kana: ついんみらーこんぱくと
   _key: twin_mirror_compact
+- lives: []
+  name: Twinkle☆Twinkle
+  name_kana: とぅいんくるとぅいんくる
+  _key: twinkle_twinkle
+- lives: []
+  name: Vanity♥colon
+  name_kana: ばにてぃころん
+  _key: vanity_colon
 - lives:
   - pripara_107_virtual_idol
   - pripara_79_virtual_idol
   name: ヴァーチャデリアイドル♥
   name_kana: ばーちゃでりあいどる
   _key: virtual_idol
+- lives: []
+  name: Vivi℃ Heart Session!
+  name_kana: びびっどはーとせっしょん
+  _key: vivid_heart_session
 - lives:
   - pripara_139_we_are_the_friends
   name: 組曲フォーエバー☆フレンズ ～第四楽章～ ウィー・アー・ザ・フレンズ!
   name_kana: くみきょくふぉーえばーふれんず だいよんがくしょう うぃーあーざふれんず
   _key: we_are_the_friends
+- lives: []
+  name: We Will Win! -ココロのバトンでポ・ポンのポ～ン☆-
+  name_kana: うぃーうぃるうぃん こころのばとんでぽぽんのぽーん
+  _key: we_will_win_kokoro_no_baton_de_po_pon_no_pon
 - lives: []
   name: WELCOME TO DREAM
   name_kana: うぇるかむとぅどりーむ
@@ -629,6 +1068,14 @@
   name: ホワット・ア・ワンダプリ・ワールド!!
   name_kana: ほわっとあわんだぷりわーるど
   _key: what_a_wonder_pri_world
+- lives: []
+  name: Wonderful World
+  name_kana: わんだふるわーるど
+  _key: wonderful_world
+- lives: []
+  name: よいなかそ♥
+  name_kana: よいなかそ
+  _key: yoinakaso
 - lives:
   - ad_1_you_may_dream
   name: You May Dream
@@ -643,7 +1090,6 @@
   - pripara_26_zero_week_old
   - pripara_30_zero_week_old
   - pripara_31_zero_week_old
-  - pripara_33_zero_week_old
   - pripara_34_zero_week_old
   - pripara_35_zero_week_old
   name: 0（ゼロ）-week-old
