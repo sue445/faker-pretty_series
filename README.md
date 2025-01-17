@@ -2,7 +2,7 @@
 Test data generator using [PrettySeries](https://en.wikipedia.org/wiki/Pretty_Rhythm)
 
 [![Gem Version](https://badge.fury.io/rb/faker-pretty_series.svg)](https://badge.fury.io/rb/faker-pretty_series)
-[![test](https://github.com/sue445/faker-pretty_series/workflows/test/badge.svg?branch=master)](https://github.com/sue445/faker-pretty_series/actions?query=workflow%3Atest)
+[![test](https://github.com/sue445/faker-pretty_series/actions/workflows/test.yml/badge.svg)](https://github.com/sue445/faker-pretty_series/actions/workflows/test.yml)
 [![Coverage Status](https://coveralls.io/repos/github/sue445/faker-pretty_series/badge.svg?branch=master)](https://coveralls.io/github/sue445/faker-pretty_series?branch=master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/1e61884ff835944a69d2/maintainability)](https://codeclimate.com/github/sue445/faker-pretty_series/maintainability)
 
