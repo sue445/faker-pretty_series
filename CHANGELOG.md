@@ -1,5 +1,11 @@
 ## Unreleased
-[full changelog](http://github.com/sue445/faker-pretty_series/compare/v0.1.2...master)
+[full changelog](http://github.com/sue445/faker-pretty_series/compare/v0.1.3...master)
+
+## [v0.1.3](https://github.com/sue445/faker-pretty_series/releases/tag/v0.1.3)
+[full changelog](http://github.com/sue445/faker-pretty_series/compare/v0.1.2...v0.1.3)
+
+* Release gem from GitHub Actions
+  * https://github.com/sue445/faker-pretty_series/pull/30
 
 ## v0.1.2
 [full changelog](http://github.com/sue445/faker-pretty_series/compare/v0.1.1...v0.1.2)
