@@ -12,3 +12,8 @@ gem "rspec", "~> 3.0"
 # Stop upgrading SimpleCov until the following issue will be resolved.
 # https://github.com/codeclimate/test-reporter/issues/418
 gem "simplecov", "~> 0.10", "< 0.18"
+
+if Gem::Version.create(RUBY_VERSION) >= Gem::Version.create("4.0.0")
+  # rdoc is bundled gem since ruby 4.0
+  gem "rdoc"
+end
